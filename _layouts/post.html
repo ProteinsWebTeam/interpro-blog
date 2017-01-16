@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+  <p class="category">{{ page.category }}</p>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  {% if page.emg %}
+  <p>
+    <a href="{{ page.emg.url }}">{{ page.emg.text | escape }}</a>
+  </p>
+  {% else %}
+  <!-- no link defined -->
+  {% endif %}
+
+  <div class="date">
+    Written on
+    <time datetime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%B %e, %Y" }}</time>
+  </div>
+</article>

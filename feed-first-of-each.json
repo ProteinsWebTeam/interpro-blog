@@ -1,0 +1,19 @@
+---
+---
+{% assign replacer = site.url | prepend: 'src="//' | append : '/' %}
+{
+{% for category in site.categories %}
+"{{ category[0] }}": {
+  {% assign post = category[1] | first %}
+  "title": "{{ post.title | escape }}",
+  "url": "//{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+  "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | escape | strip_newlines }}",
+  "category": "{{ post.category }}"{% if post.emg %},
+  "published": "{{ post.date | json }}",
+  "emg": {
+    "text": "{{ post.emg.text | escape }}",
+    "url": "{{ post.emg.url }}"
+  }{% endif %}
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+}
