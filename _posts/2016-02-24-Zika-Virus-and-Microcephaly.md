@@ -7,10 +7,12 @@ category: focus
 ---
 You have probably been as horrified and saddened as me to see the shocking abnormality
 that affects newborn babies whose mothers have been infected with the Zika virus.
+
 The skulls and brains of the babies have not grown properly,
 and the babies appear to have small heads, a condition known as “microcephaly”.
 The standard definition is that the circumference of the head is two (or three)
 standard deviations below average for age and sex [1,2] (Fig. 1).
+
 ![microcephaly]({{site.baseurl}}/assets/media/images/posts/Final_Microcephaly2.jpg)
 Fig. 1. Diagram to show size of a baby’s head with microcephaly compared to a normal baby’s head.
 From  [https://prezi.com/iwv4kvehmhbv/microcephaly-then-and-now/](https://prezi.com/iwv4kvehmhbv/microcephaly-then-and-now/).

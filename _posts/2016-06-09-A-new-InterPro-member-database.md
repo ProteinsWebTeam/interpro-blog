@@ -10,6 +10,7 @@ We are pleased to announce that the NCBI Conserved Domain Database
 ([CDD](http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)) has joined the
 [InterPro](https://www.ebi.ac.uk/interpro/) consortium as a member database,
 and has begun to be integrated into the resource.
+
 This is the first new member database to be integrated into InterPro since
 [HAMAP](http://hamap.expasy.org/) was included, back in 2009.
 As you can see, it has been 7 years since a new database has been added,
