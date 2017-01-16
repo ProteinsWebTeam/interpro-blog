@@ -10,11 +10,10 @@ that affects newborn babies whose mothers have been infected with the Zika virus
 The skulls and brains of the babies have not grown properly,
 and the babies appear to have small heads, a condition known as “microcephaly”.
 The standard definition is that the circumference of the head is two (or three)
-standard deviations below average for age and sex [1,2] (Fig. 1).  
-
+standard deviations below average for age and sex [1,2] (Fig. 1).
 ![microcephaly]({{site.baseurl}}/assets/media/images/posts/Final_Microcephaly2.jpg)
 Fig. 1. Diagram to show size of a baby’s head with microcephaly compared to a normal baby’s head.
-From  [https://prezi.com/iwv4kvehmhbv/microcephaly-then-and-now/]().
+From  [https://prezi.com/iwv4kvehmhbv/microcephaly-then-and-now/](https://prezi.com/iwv4kvehmhbv/microcephaly-then-and-now/).
 
 # Origin and spread of the Zika virus
 Zika virus has been known since the 1940s, and originally occurred in the equatorial regions of Africa.
@@ -24,7 +23,7 @@ Analysis of the various sequenced genomes has shown an origin in central Africa
 spreading elsewhere in Africa (Senegal (1984), Nigeria (1968) and the Central African Republic (1976))
 and then spread westwards to Malaysia (1966), Cambodia (2010), Micronesia (2007),
 French Polynesia (2013) and then Suriname and Brazil (2015)
-[[http://virological.org/t/initial-Zika-phylogeography/202]()].
+[[http://virological.org/t/initial-Zika-phylogeography/202](http://virological.org/t/initial-Zika-phylogeography/202)].
 The virus is transmitted by mosquitoes such as Aedes aegypti (Fig. 2) and A. albopictus.
 These mosquitoes are active during the day, mainly at dawn and dusk and when the weather is cloudy,
 and transmit the virus from patient to patient when the females take a blood meal.
@@ -61,10 +60,10 @@ It has been estimated that 1.5 million cases of Zika fever occurred in Brazil
 between April 2015 and January 2016, and 3718 cases of microcephaly (38 of which led to death) [9],
 which is one case per 403 infections, and one case per 793 births
 (the population of Brazil is 204 million and the annual birth rate is 14.46 per 1000
-[[https://www.cia.gov/library/publications/the-world-factbook/geos/br.html]()]).
+[[https://www.cia.gov/library/publications/the-world-factbook/geos/br.html](https://www.cia.gov/library/publications/the-world-factbook/geos/br.html)]).
 This is considerably higher than the known incidence of microcephaly in the UK
 (where the Zika virus is absent): approximately 1 in 10,000 births in the UK
-[[http://www.rightdiagnosis.com/m/microcephaly/basics.htm]()]. 
+[[http://www.rightdiagnosis.com/m/microcephaly/basics.htm](http://www.rightdiagnosis.com/m/microcephaly/basics.htm)]. 
 
 # Zika virus polyprotein
 The Zika virus is a flavivirus, a group that includes the viruses that cause yellow fever,
@@ -149,8 +148,8 @@ ensuring that only viral proteins are made, and the endopeptidases from retrovir
 enteroviruses and foot-and-mouth disease virus all cleave these proteins [13-17].
 Nuclear pore glycoprotein p62 is also cleaved by the rhinovirus endopeptidase picornain 2A peptidase,
 and this disrupts trafficking from the nucleus to the cytoplasm [18].
-Both microcephalin ([http://www.uniprot.org/uniprot/Q8NEM0]())
-and ASPM ([http://www.uniprot.org/uniprot/Q8IZT6]()) have regions that conform
+Both microcephalin ([http://www.uniprot.org/uniprot/Q8NEM0](http://www.uniprot.org/uniprot/Q8NEM0))
+and ASPM ([http://www.uniprot.org/uniprot/Q8IZT6](http://www.uniprot.org/uniprot/Q8IZT6)) have regions that conform
 to the specificity of the Zika virus endopeptidase (Fig. 5)
 so either could be a potential substrate and be inactivated by cleavage.
 If cleavage of these proteins has the same effect as mutations in the genes,
