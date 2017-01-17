@@ -1,11 +1,10 @@
 ---
 published: true
 layout: post
-title: A new InterPro member database
+title: A new InterPro member database - CDD joins InterPro
 date: 2016-06-09T05:15:00.000Z
 category: interpro
 ---
-# CDD joins InterPro
 We are pleased to announce that the NCBI Conserved Domain Database
 ([CDD](http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)) has joined the
 [InterPro](https://www.ebi.ac.uk/interpro/) consortium as a member database,
