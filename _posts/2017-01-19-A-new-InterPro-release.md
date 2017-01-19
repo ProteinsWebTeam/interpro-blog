@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+category: interpro
 ---
 ## New entries in InterPro 61.0 - the tip of the iceberg
 The thing about icebergs is, with 90% of their volume hidden beneath the water, it can be hard to appreciate their true size. The same can be said about InterPro 61.0, which represents a real iceberg of a release, with a huge amount of unseen work below the surface that is not fully reflected in the release note statistics. 
