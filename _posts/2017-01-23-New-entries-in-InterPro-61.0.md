@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: New entries in InterPro 61 - the tip of the iceberg
 category: interpro
 ---
 ![iceberg image]({{site.baseurl}}/assets/media/images/posts/iceberg_blog.png)
