@@ -3,6 +3,7 @@ published: true
 layout: post
 category: interpro
 ---
+![iceberg image]({{site.baseurl}}/assets/media/images/posts/iceberg_blog.png)
 The thing about icebergs is, with 90% of their volume hidden beneath the water, it can be hard to appreciate their true size. The same can be said about InterPro 61.0, which represents a real iceberg of a release, with a huge amount of unseen work below the surface that is not fully reflected in the release note statistics. 
 
 The major challenge for this release has been the update to PANTHER 11.1, which has seen many changes compared to version 10.0, most notably a switch to using HMMER3.  While this transforms the speed at which we can calculate PANTHER matches, it has brought a few problems too. As a result of the update, nearly 3,000 InterPro entries were at risk of removal, since their underlying PANTHER signatures had been deleted as part of the database rebuild between PANTHER 10.0 and 11.1. The InterPro curators have been working their socks off, trying to find replacement signatures (either in PANTHER 11.1 or from other member databases) that match equivalent sets of sequences so that this huge number of InterPro entries and corresponding annotation was not lost from the resource.
