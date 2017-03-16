@@ -10,9 +10,9 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.emg %}
+  {% if page.interpro %}
   <p>
-    <a href="{{ page.emg.url }}">{{ page.emg.text | escape }}</a>
+    <a href="{{ page.interpro.url }}">{{ page.interpro.text | escape }}</a>
   </p>
   {% else %}
   <!-- no link defined -->
@@ -21,5 +21,6 @@ layout: default
   <div class="date">
     Written on
     <time datetime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%B %e, %Y" }}</time>
+    {% if page.author %}by {{ page.author }}{% endif %}
   </div>
 </article>

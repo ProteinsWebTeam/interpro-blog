@@ -6,12 +6,13 @@
     "title": "{{ post.title | escape }}",
     "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
     "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | escape | strip_newlines }}",
-    "category": "{{ post.category }}"{% if post.emg %},
+    "category": "{{ post.category }}"{% if post.author %},
+    "author": "{{ post.author | escape }}"{% endif %}{% if post.interpro %},
     "content": "{{ post.content | escape | strip_newlines }}",
     "published": "{{ post.date | json }}",
-    "emg": {
-      "text": "{{ post.emg.text | escape }}",
-      "url": "{{ post.emg.url }}"
+    "interpro": {
+      "text": "{{ post.interpro.text | escape }}",
+      "url": "{{ post.interpro.url }}"
     }{% endif %}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}]

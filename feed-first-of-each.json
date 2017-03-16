@@ -9,7 +9,8 @@
   "url": "//{{ site.url }}{{ site.baseurl }}{{ post.url }}",
   "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | replace: '
 ', ' ' | escape }}",
-  "category": "{{ post.category }}"{% if post.interpro %},
+  "category": "{{ post.category }}"{% if post.author %},
+  "author": "{{ post.author | escape }}"{% endif %}{% if post.interpro %},
   "published": "{{ post.date | json }}",
   "interpro": {
     "text": "{{ post.interpro.text | escape }}",
