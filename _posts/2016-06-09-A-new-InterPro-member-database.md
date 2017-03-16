@@ -4,6 +4,7 @@ layout: post
 title: A new InterPro member database - CDD joins InterPro
 date: 2016-06-09T05:15:00.000Z
 category: interpro
+author: Rob Finn
 ---
 We are pleased to announce that the NCBI Conserved Domain Database
 ([CDD](http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)) has joined the
@@ -52,6 +53,3 @@ with the next InterPro release not anticipated until the beginning of September.
 In the meantime, we have a number of planned infrastructural changes
 that will broaden the scope of InterPro further...
 We will describe these changes in detail once they are ready!
-
-Rob Finn 
-*on behalf of the InterPro team*
