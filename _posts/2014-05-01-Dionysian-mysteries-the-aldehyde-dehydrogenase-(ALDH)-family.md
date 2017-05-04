@@ -2,6 +2,8 @@
 published: true
 category: focus
 ---
+### By Hsin-Yu Chang and Alex Mitchell
+
 Do you have friends that cannot handle alcoholic drinks? Just half a pint of beer or a few sips of wine, and their faces turn red, possibly with some hangover symptoms, such as headaches and nausea? You may envy  their cheap night out, but wonder why these people cannot tolerate alcohol as you do. The phenomenon is called ‘alcohol flush reaction’, also known as ‘Asian flush syndrome’, due to its association with the Asian population. It is a condition caused by the accumulation of acetaldehyde, a metabolic byproduct of the catabolic metabolism of alcohol.
 
 ![ALDH_edited-1.jpg]({{site.baseurl}}/assets/media/images/posts/ALDH_edited-1.jpg) 
@@ -57,7 +59,7 @@ We may not yet understand the reason why the  ALDH2 deficiency is widespread in 
 
 So before you encourage your friends to have another glass of wine or a pint of beer, you may need to check if they have the Asian flush symptoms, or even review their ALDH2 phenotype!
   
-### By Hsin-Yu Chang and Alex Mitchell
+
 
 ### References
 
