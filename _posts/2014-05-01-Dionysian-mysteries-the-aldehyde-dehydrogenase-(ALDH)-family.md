@@ -15,7 +15,7 @@ Picture provided by Louise Daugherty
 
 Normally, during the alcohol metabolic process, ethanol is converted to acetaldehyde by an alcohol dehydrogenase enzyme, called ADH1B, and then broken down to acetic acid by an aldehyde dehydrogenase enzyme (ALDH). 
 
-In humans, there are nineteen identified ALDH genes (ALDH1-19). Most Europeans have normal copy of the ALDH2 gene, whilst approximately 30-50% of East Asians carry an allele (ALDH2*2)  that results in the synthesis of a less efficient enzyme 1.
+In humans, there are nineteen identified ALDH genes (ALDH1-19). Most Europeans have normal copy of the ALDH2 gene, whilst approximately 30-50% of East Asians carry an allele (ALDH2*2)  that results in the synthesis of a less efficient enzyme [1].
 
 ALDH2 forms homotetramers.  Each subunit in the tetramer consists of three domains - the catalytic domain, the coenzyme-binding domain and the oligomerisation domain. The low activity of ALDH2*2 is the result of a substitution of lysine for glutamate at position 487 (Glu487) of the 500-amino-acid mature enzyme 2. The Glu487 links the coenzyme-binding site to the active site, which creates a stable structural scaffold contributing to catalysis (Figure 1). In the ALDH2*2 apoenzyme, the presence of a lysine at residue 487 disturbs the hydrogen bonds and causes disruptions of the αG helix structure 3. This reduces affinity for the coenzyme and lowers the rate of the metabolic process 3. 
 
