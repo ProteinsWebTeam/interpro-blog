@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2014-05-01T05:15:00.000Z
+date: {}
 category: focus
 ---
 Do you have friends that cannot handle alcoholic drinks? Just half a pint of beer or a few sips of wine, and their faces turn red, possibly with some hangover symptoms, such as headaches and nausea? You may envy  their cheap night out, but wonder why these people cannot tolerate alcohol as you do. The phenomenon is called ‘alcohol flush reaction’, also known as ‘Asian flush syndrome’, due to its association with the Asian population. It is a condition caused by the accumulation of acetaldehyde, a metabolic byproduct of the catabolic metabolism of alcohol. 
