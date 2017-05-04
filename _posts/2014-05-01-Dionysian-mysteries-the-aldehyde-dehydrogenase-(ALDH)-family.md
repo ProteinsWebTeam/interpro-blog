@@ -8,6 +8,7 @@ Do you have friends that cannot handle alcoholic drinks? Just half a pint of bee
 
 
 Picture provided by Louise Daugherty
+
 Normally, during the alcohol metabolic process, ethanol is converted to acetaldehyde by an alcohol dehydrogenase enzyme, called ADH1B, and then broken down to acetic acid by an aldehyde dehydrogenase enzyme (ALDH). 
 
 In humans, there are nineteen identified ALDH genes (ALDH1-19). Most Europeans have normal copy of the ALDH2 gene, whilst approximately 30-50% of East Asians carry an allele (ALDH2*2)  that results in the synthesis of a less efficient enzyme 1.
