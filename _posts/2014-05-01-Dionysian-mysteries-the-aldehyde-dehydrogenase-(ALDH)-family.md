@@ -4,20 +4,13 @@ category: focus
 ---
 Do you have friends that cannot handle alcoholic drinks? Just half a pint of beer or a few sips of wine, and their faces turn red, possibly with some hangover symptoms, such as headaches and nausea? You may envy  their cheap night out, but wonder why these people cannot tolerate alcohol as you do. The phenomenon is called ‘alcohol flush reaction’, also known as ‘Asian flush syndrome’, due to its association with the Asian population. It is a condition caused by the accumulation of acetaldehyde, a metabolic byproduct of the catabolic metabolism of alcohol.
 
-![ALDH_edited-1.jpg]({{site.baseurl}}/assets/media/images/posts/ALDH_edited-1.jpg)
-
-
-Picture provided by Louise Daugherty
-
-
-
-
+![ALDH_edited-1.jpg]({{site.baseurl}}/assets/media/images/posts/ALDH_edited-1.jpg) Picture provided by Louise Daugherty
 
 Normally, during the alcohol metabolic process, ethanol is converted to acetaldehyde by an alcohol dehydrogenase enzyme, called ADH1B, and then broken down to acetic acid by an aldehyde dehydrogenase enzyme (ALDH). 
 
 In humans, there are nineteen identified ALDH genes (ALDH1-19). Most Europeans have normal copy of the ALDH2 gene, whilst approximately 30-50% of East Asians carry an allele (ALDH2*2)  that results in the synthesis of a less efficient enzyme [1].
 
-ALDH2 forms homotetramers.  Each subunit in the tetramer consists of three domains - the catalytic domain, the coenzyme-binding domain and the oligomerisation domain. The low activity of ALDH2*2 is the result of a substitution of lysine for glutamate at position 487 (Glu487) of the 500-amino-acid mature enzyme [2]. The Glu487 links the coenzyme-binding site to the active site, which creates a stable structural scaffold contributing to catalysis (Figure 1). In the ALDH2*2 apoenzyme, the presence of a lysine at residue 487 disturbs the hydrogen bonds and causes disruptions of the αG helix structure 3. This reduces affinity for the coenzyme and lowers the rate of the metabolic process [3]. 
+ALDH2 forms homotetramers.  Each subunit in the tetramer consists of three domains - the catalytic domain, the coenzyme-binding domain and the oligomerisation domain. The low activity of ALDH2*2 is the result of a substitution of lysine for glutamate at position 487 (Glu487) of the 500-amino-acid mature enzyme [2]. The Glu487 links the coenzyme-binding site to the active site, which creates a stable structural scaffold contributing to catalysis (Figure 1). In the ALDH2*2 apoenzyme, the presence of a lysine at residue 487 disturbs the hydrogen bonds and causes disruptions of the αG helix structure [3]. This reduces affinity for the coenzyme and lowers the rate of the metabolic process [3]. 
 
 As a result of this mutation, acetaldehyde accumulates whenever alcohol is consumed. Unfortunately, acetaldehyde is a DNA damaging agent that can cause cancer  [4], and a higher risk of ALDH2-deficient drinkers developing esophageal cancer has been shown by several studies [4,5,6]. A knock out mouse model also links ethanol consumption with higher risk of acetaldehyde toxicity in ALDH2 deficient individuals [7].  But whilst the outlook seems to be dim and gloomy for the ALDH2*2 drinkers, on the bright side, they are less likely to suffer alcohol addiction problems  [8]. In fact, there is a drug called disulfiram that causes symptoms similar to Asian flush syndrome that is used to treat alcoholism. 
 
@@ -35,7 +28,7 @@ Interestingly, some ALDH2*2 individuals have less intense flushing symptoms. Thi
  
 Figure 2. Ethanol metabolic process.
 
-It is intriguing that a single mutation in the ALDH2 gene could cause alcohol-related health problems. From an evolutionary point of view, aldehyde dehydrogenases are utilised by different species to detoxify harmful chemical intermediates, and hence play an important role in cell survival. They catalyse the conversion of a wide variety of aldehyde substrates to their respective carboxylic acids, using coenzyme NAD or NADP. The aldehyde dehydrogenase family members contain two conserved sites: a cysteine active site and a glutamic acid active site (Figure 4). These two sites are represented by the InterPro entries IPR016160 and IPR029510, and are conserved across species,  from archaea and bacteria to eukaryotes. 
+It is intriguing that a single mutation in the ALDH2 gene could cause alcohol-related health problems. From an evolutionary point of view, aldehyde dehydrogenases are utilised by different species to detoxify harmful chemical intermediates, and hence play an important role in cell survival. They catalyse the conversion of a wide variety of aldehyde substrates to their respective carboxylic acids, using coenzyme NAD or NADP. The aldehyde dehydrogenase family members contain two conserved sites: a cysteine active site and a glutamic acid active site (Figure 4). These two sites are represented by the InterPro entries [IPR016160](https://www.ebi.ac.uk/interpro/entry/IPR016160) and [IPR029510](https://www.ebi.ac.uk/interpro/entry/IPR029510), and are conserved across species,  from archaea and bacteria to eukaryotes. 
 
 ALDH in different species
 
