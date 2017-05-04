@@ -12,6 +12,7 @@ Members of the cat family (Felidae) are the only definitive hosts of T. gondii w
 
 ![toxoplasmosis_cycle_02.gif]({{site.baseurl}}/assets/media/images/posts/toxoplasmosis_cycle_02.gif)
 
+
 Fig 1. Life-cycle of the parasite Toxoplasma gondii. Sexual reproduction can only be accomplished in felines, and results in the production of sporozoites-containing oocysts that are shed for a limited period. Within intermediate hosts, the parasite undergoes asexual reproduction, producing rapidly dividing tachyzoites - cleared by the immune system - and slowly dividing bradyzoites that can persist as tissue cysts. (Figure by Sebastien Pesseat)  
 
 
@@ -31,7 +32,8 @@ Fig 2. Dopamine biosynthesis pathway
 In InterPro, these dual activity amino acid hydrolases are classified as belonging to the aromatic amino acid hydroxylase family ([IPR001273](http://www.ebi.ac.uk/interpro/entry/IPR001273)). They consist of two domains: an N-terminal ACT domain ([IPR002912](http://www.ebi.ac.uk/interpro/entry/IPR002912)), and a C-terminal aromatic amino acid hydroxylase domain ([IPR019774](http://www.ebi.ac.uk/interpro/entry/IPR019774)). The C-terminal domain is responsible for catalysis and the N-terminal domain determines the substrate specificity. You can read more about these proteins and domains on the InterPro website.
 
 
-![]({{site.baseurl}}/assets/media/images/posts/Picture1.png)![Picture1.png]({{site.baseurl}}/assets/media/images/posts/Picture1.png)
+![Picture1.png]({{site.baseurl}}/assets/media/images/posts/Picture1.png)
+
 
 Fig 3. InterPro view for aromatic amino acid hydroxylase 1 from T. gondii 
 (UniProt protein B2L7T1), the product of gene TgAaaH1.
