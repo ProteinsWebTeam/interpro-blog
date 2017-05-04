@@ -25,7 +25,7 @@ As a result of this mutation, acetaldehyde accumulates whenever alcohol is consu
  
 Figure 1. The protein structure of a single subunit of ALDH2. 
 Residue 487 is indicated in violet. ALDH2*2 αG helix is shown in red, 
-wild type I shown in blue.  Picture modified from Larson et al.  2005. 3
+wild type I shown in blue.  Picture modified from Larson et al.  2005. [3]
  
 Interestingly, some ALDH2*2 individuals have less intense flushing symptoms. This is because they also have a less active form of ADH1B (ADH1B*1/*1). This prevents a steep rise in acetaldehyde after drinking. However, some studies have shown that these individuals may have higher risk of both alcoholism and cancer (Figure 2)  [8, 9].   
 
