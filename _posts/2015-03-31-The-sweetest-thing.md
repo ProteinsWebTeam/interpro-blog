@@ -16,7 +16,7 @@ Figure 1. Stevia rebaudiana. Ethel Aardvark, Wikimedia
 
 Stevia is extracted from a plant, Stevia rebaudiana, found in Brazil and Paraguay. The leaves of the Stevia plant have been used for hundreds of years in both countries to sweeten local teas and medicines. The sweet taste is mainly from steviol glycoside compounds, which have up to 150 times the sweetness of sugar, but zero calories [1].
 
-The story of Stevia gave me, a protein database curator, the idea to search for the sweetest proteins to date. I found one such protein, thaumatin (IPR001938), produced by Thaumatococcus daniellii (also known as Katemfe), a shrub from West Africa. Thaumatin is around 2,000 times sweeter than sugar [2]!
+The story of Stevia gave me, a protein database curator, the idea to search for the sweetest proteins to date. I found one such protein, thaumatin ([IPR001938](https://www.ebi.ac.uk/interpro/entry/IPR001938)), produced by Thaumatococcus daniellii (also known as Katemfe), a shrub from West Africa. Thaumatin is around 2,000 times sweeter than sugar [2]!
 
 Similar to Stevia, Katemfe plants have been used by the locals for a long time; they use its leaves for wrapping food and its fruits for sweetening breads, palm wine and sour food. Their sweet proteins, thaumatin I and thaumatin II, were first identified in the 1970s in the search for non-toxic, non-calorific 'natural' sweeteners to replace synthetic ones [3].
 
