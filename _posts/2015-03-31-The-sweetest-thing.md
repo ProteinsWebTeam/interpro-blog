@@ -1,5 +1,6 @@
 ---
 published: false
+category: focus
 ---
 ### By Hsin-Yu Chang
 
