@@ -10,8 +10,9 @@ A famous cola company launched a new product contained in a gleaming green can l
 
 ![Stevia_rebaudiana_flowers.jpg]({{site.baseurl}}/assets/media/images/posts/Stevia_rebaudiana_flowers.jpg)
 
+Figure 1. Stevia rebaudiana. Ethel Aardvark, Wikimedia
 
-    Figure 1. Stevia rebaudiana Ethel Aardvark, Wikimedia
+
 
 Stevia is extracted from a plant, Stevia rebaudiana, found in Brazil and Paraguay. The leaves of the Stevia plant have been used for hundreds of years in both countries to sweeten local teas and medicines. The sweet taste is mainly from steviol glycoside compounds, which have up to 150 times the sweetness of sugar, but zero calories [1].
 
