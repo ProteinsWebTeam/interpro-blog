@@ -54,10 +54,10 @@ Besides thaumatin, there are a few other sweet proteins such as monellin ([IPR01
 
 V. Further reading:
 How did stevia get mainstream?  -By Tom Heyden
-http://www.bbc.co.uk/news/magazine-22758059
+[http://www.bbc.co.uk/news/magazine-22758059](http://www.bbc.co.uk/news/magazine-22758059)
 
 Are sweeteners really bad for us? -By Claudia Hammond
-http://www.bbc.com/future/story/20150127-are-sweeteners-really-bad-for-us
+[http://www.bbc.com/future/story/20150127-are-sweeteners-really-bad-for-us](http://www.bbc.com/future/story/20150127-are-sweeteners-really-bad-for-us)
 
 ### References:
 1. Cardello HM, Da Silva MA, Damasio MH., Measurement of the relative sweetness of stevia extract, aspartame and cyclamate/saccharin blend as compared to sucrose at different concentrations. Plant Foods Hum Nutr. 54(2):119-30., 1999. [PMID:10646559]
