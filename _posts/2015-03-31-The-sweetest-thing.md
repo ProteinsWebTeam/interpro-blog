@@ -50,7 +50,7 @@ III. Calories:
 Despite thaumatin containing 4 calories/gram (3.87 calories/gram for sucrose), the amount needed to be used in food or drink is extremely small, due to its high potency.
 
 IV.Other sweet proteins:
-Besides thaumatin, there are a few other sweet proteins such as monellin (IPR015283), pentadin, mabinlin and brazzein [10,11].
+Besides thaumatin, there are a few other sweet proteins such as monellin ([IPR015283](https://www.ebi.ac.uk/interpro/entry/IPR015283)), pentadin, mabinlin and brazzein [10,11].
 
 V. Further reading:
 How did stevia get mainstream?  -By Tom Heyden
