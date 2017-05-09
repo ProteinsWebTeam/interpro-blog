@@ -1,9 +1,8 @@
 ---
 published: true
 category: focus
+author: Amaia Sangrador and Alex Mitchell
 ---
-### By Amaia Sangrador and Alex Mitchell
-
 You may have heard about toxoplasmosis, or read about it in a newspaper or magazine. Toxoplasmosis is a condition caused by the protozoan Toxoplasma gondii, an intracellular parasite that infects a wide variety of warm-blooded animals, including humans. T. gondii has attracted the attention of both the scientific and lay communities, and with good reason. It is one of the most successful parasites, infecting over one third of the human population, with rates varying depending upon geographical location [1].
 
 Acute toxoplasmosis usually only poses a risk for immunocompromised individuals or pregnant women. However, residual parasites persist lifelong after the acute phase. Though this latent form of the infection was thought to be asymptomatic, a growing body of evidence suggests that this is not the case [2]. And the long term effects of infection with T. gondii seem related to the most fascinating aspect of this parasite: its ability to modify host behaviour.

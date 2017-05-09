@@ -1,18 +1,13 @@
 ---
 published: true
 category: focus
+author: Hsin-Yu Chang
 ---
-### By Hsin-Yu Chang
-
-
 A famous cola company launched a new product contained in a gleaming green can last year. As a regular cola drinker, I was intrigued by the packaging. After doing some research, I discovered that this variety of cola contains a sweetener called Stevia.
-
 
 ![Stevia_rebaudiana_flowers.jpg]({{site.baseurl}}/assets/media/images/posts/Stevia_rebaudiana_flowers.jpg)
 
 Figure 1. Stevia rebaudiana. Ethel Aardvark, Wikimedia
-
-
 
 Stevia is extracted from a plant, Stevia rebaudiana, found in Brazil and Paraguay. The leaves of the Stevia plant have been used for hundreds of years in both countries to sweeten local teas and medicines. The sweet taste is mainly from steviol glycoside compounds, which have up to 150 times the sweetness of sugar, but zero calories [1].
 
@@ -23,7 +18,6 @@ Similar to Stevia, Katemfe plants have been used by the locals for a long time; 
 ![Thaumatococcus.png]({{site.baseurl}}/assets/media/images/posts/Thaumatococcus.png)
 
 Figure 2. Katemfe plant ~from Engler et al. Marantaceae, vol. 48: [Heft 11], p. 40, fig. 8 (1902).
-
 
 Why do plants like Katemfe produce extremely sweet proteins? The answer may lie in the plant defence systems. Under environmental stresses or pathogen attack, plants can produce proteins that help them stay alive. In the case of Katemfe, attack by a viroid (a sub-viral pathogen) induces thaumatin production. Thaumatin has also been shown to have antifungal activities, which suggests it may be part of a defence mechanism that prevents further pathogen attacks [4].
 
