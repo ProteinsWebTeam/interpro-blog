@@ -8,6 +8,12 @@ layout: default
 
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
+    <div class="date">
+      Written on
+      <time datetime="{{ post.date | date: '%Y-%m-%dT%T' }}">{{ post.date | date: "%B %e, %Y" }}</time>
+      {% if post.author %}by {{ post.author }}{% endif %}
+    </div>
+
     <div class="entry">
       {{ post.excerpt }}
     </div>

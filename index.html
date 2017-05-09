@@ -11,6 +11,12 @@ layout: default
         {{ post.category }}
       </a>
 
+      <div class="date">
+        Written on
+        <time datetime="{{ post.date | date: '%Y-%m-%dT%T' }}">{{ post.date | date: "%B %e, %Y" }}</time>
+        {% if post.author %}by {{ post.author }}{% endif %}
+      </div>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
