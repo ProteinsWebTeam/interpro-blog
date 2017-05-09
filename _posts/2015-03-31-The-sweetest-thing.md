@@ -6,7 +6,6 @@ author: Hsin-Yu Chang
 A famous cola company launched a new product contained in a gleaming green can last year. As a regular cola drinker, I was intrigued by the packaging. After doing some research, I discovered that this variety of cola contains a sweetener called Stevia.
 
 ![Stevia_rebaudiana_flowers.jpg]({{site.baseurl}}/assets/media/images/posts/Stevia_rebaudiana_flowers.jpg)
-
 Figure 1. Stevia rebaudiana. Ethel Aardvark, Wikimedia
 
 Stevia is extracted from a plant, Stevia rebaudiana, found in Brazil and Paraguay. The leaves of the Stevia plant have been used for hundreds of years in both countries to sweeten local teas and medicines. The sweet taste is mainly from steviol glycoside compounds, which have up to 150 times the sweetness of sugar, but zero calories [1].
@@ -16,21 +15,20 @@ The story of Stevia gave me, a protein database curator, the idea to search for 
 Similar to Stevia, Katemfe plants have been used by the locals for a long time; they use its leaves for wrapping food and its fruits for sweetening breads, palm wine and sour food. Their sweet proteins, thaumatin I and thaumatin II, were first identified in the 1970s in the search for non-toxic, non-calorific 'natural' sweeteners to replace synthetic ones [3].
 
 ![Thaumatococcus.png]({{site.baseurl}}/assets/media/images/posts/Thaumatococcus.png)
-
 Figure 2. Katemfe plant ~from Engler et al. Marantaceae, vol. 48: [Heft 11], p. 40, fig. 8 (1902).
 
 Why do plants like Katemfe produce extremely sweet proteins? The answer may lie in the plant defence systems. Under environmental stresses or pathogen attack, plants can produce proteins that help them stay alive. In the case of Katemfe, attack by a viroid (a sub-viral pathogen) induces thaumatin production. Thaumatin has also been shown to have antifungal activities, which suggests it may be part of a defence mechanism that prevents further pathogen attacks [4].
 
 In fact, thaumatin shares a conserved site ([IPR017949](https://www.ebi.ac.uk/interpro/entry/IPR017949)) with a group of pathogenesis-related proteins, also known as thaumatin-like proteins (TLPs) [5], including tobacco salt-induced protein osmotin [6] and maize antifungal protein zeamatin [7]. Like thaumatin, this group of proteins plays an essential part in plant defence against either environment stress or pathogen attack [8].
 
-Another question is, why does thaumatin taste sweet to us? This is down to the sweetness receptors in our taste buds on our tongues. The sweet molecules (chemicals or proteins) are perceived by G-protein-coupled receptors, consisting of  two subunits, T1R2 and T1R3. Certain amino acid residues in these subunits affect their ability to recognise the sweet molecules [9]. Interestingly, apes and Old World monkeys can perceive thaumatin as a sweet protein, while New World monkeys and rodents cannot [2].  In other words, the sweet taste of thaumatin for us humans could be just an evolutionary coincidence.
+Another question is, why does thaumatin taste sweet to us? This is down to the sweetness receptors in our taste buds on our tongues. The sweet molecules (chemicals or proteins) are perceived by G-protein-coupled receptors, consisting of two subunits, T1R2 and T1R3. Certain amino acid residues in these subunits affect their ability to recognise the sweet molecules [9]. Interestingly, apes and Old World monkeys can perceive thaumatin as a sweet protein, while New World monkeys and rodents cannot [2]. In other words, the sweet taste of thaumatin for us humans could be just an evolutionary coincidence.
 
 ![figure_00_400.png]({{site.baseurl}}/assets/media/images/posts/figure_00_400.png)
 Figure 3. Sweet receptor, the peptide region involved in the response for thaumatin is shown in red [2].		
 
 So far, several chemical sweeteners have been commercialised, such as aspartame, sucralose and saccharin, and many more products may yet emerge. We all know that our sugar consumption causes health problems like obesity, diabetes and tooth decay. To avoid such health issues, scientists have searched far and wide to find alternatives. Natural sweeteners, such as Stevia and thaumatin, have provided new options for us. However, with so many different products on the market, as a consumer, I am still sitting on the fence to see which ones provide the best health benefits.
 
-![Sweething4.gif]({{site.baseurl}}/assets/media/images/posts/Sweething4.gif)
+![Sweething4.gif]({{site.baseurl}}/assets/media/images/posts/Sweething4.jpg)
 Figure 4. What should be in yours?
 
 ### Additional information:
@@ -43,11 +41,11 @@ Thaumatin has been approved by the European as a sweetener, known as E957. It is
 III. Calories:
 Despite thaumatin containing 4 calories/gram (3.87 calories/gram for sucrose), the amount needed to be used in food or drink is extremely small, due to its high potency.
 
-IV.Other sweet proteins:
+IV. Other sweet proteins:
 Besides thaumatin, there are a few other sweet proteins such as monellin ([IPR015283](https://www.ebi.ac.uk/interpro/entry/IPR015283)), pentadin, mabinlin and brazzein [10,11].
 
 V. Further reading:
-How did stevia get mainstream?  -By Tom Heyden
+How did stevia get mainstream? -By Tom Heyden
 [http://www.bbc.co.uk/news/magazine-22758059](http://www.bbc.co.uk/news/magazine-22758059)
 
 Are sweeteners really bad for us? -By Claudia Hammond
@@ -74,4 +72,4 @@ Are sweeteners really bad for us? -By Claudia Hammond
 
 10. Faus I, Recent developments in the characterization and biotechnological production of sweet-tasting proteins. Appl Microbiol Biotechnol. 53(2):145-51., 2000. [PMID:10709975]
 
-11. Masuda T, Kitabatake N. Developments in biotechnological production of sweet proteins. 102(5):375-89.  J Biosci Bioeng. 2006. [PMID:17189164]
+11. Masuda T, Kitabatake N. Developments in biotechnological production of sweet proteins. 102(5):375-89. J Biosci Bioeng. 2006. [PMID:17189164]
