@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>Categories</h1>
+
+<ul>
+{% for category in site.categories %}
+  <li>
+    <a href="{{ site.baseurl }}/categories/{{ category | first }}">
+      {{ category | first }}&nbsp;
+      <p class="badge">{{ category | last | size }} articles</p>
+    </a>
+  </li>
+{% endfor %}
+</ul>

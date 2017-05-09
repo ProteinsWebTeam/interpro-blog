@@ -4,7 +4,9 @@ layout: default
 
 <article class="post">
   <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
-  <p class="category">{{ page.category }}</p>
+  <a class="badge" href="{{ site.baseurl }}/categories/{{ page.category }}">
+    {{ page.category }}
+  </a>
 
   <div class="date">
     Written on

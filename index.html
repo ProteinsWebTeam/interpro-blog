@@ -7,7 +7,9 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <p class="category">{{ post.category }}</p>
+      <a class="badge" href="{{ site.baseurl }}/categories/{{ post.category }}">
+        {{ post.category }}
+      </a>
 
       <div class="entry">
         {{ post.excerpt }}

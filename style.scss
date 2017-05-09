@@ -130,6 +130,7 @@ img {
 }
 
 .date {
+  margin-top: 1em;
   font-style: italic;
   color: $gray;
 }
@@ -293,7 +294,7 @@ nav {
   }
 }
 
-.category {
+.badge {
   display: inline-block;
   margin: 0;
   font-size: 0.8em;
@@ -305,7 +306,9 @@ nav {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  cursor: default;
+  &:hover {
+    color: $white;
+  }
 }
 
 .wrapper-footer {
