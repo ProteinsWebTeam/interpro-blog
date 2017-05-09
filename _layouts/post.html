@@ -6,6 +6,12 @@ layout: default
   <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
   <p class="category">{{ page.category }}</p>
 
+  <div class="date">
+    Written on
+    <time datetime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%B %e, %Y" }}</time>
+    {% if page.author %}by {{ page.author }}{% endif %}
+  </div>
+
   <div class="entry">
     {{ content }}
   </div>
@@ -17,10 +23,4 @@ layout: default
   {% else %}
   <!-- no link defined -->
   {% endif %}
-
-  <div class="date">
-    Written on
-    <time datetime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%B %e, %Y" }}</time>
-    {% if page.author %}by {{ page.author }}{% endif %}
-  </div>
 </article>
