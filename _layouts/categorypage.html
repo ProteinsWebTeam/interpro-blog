@@ -20,9 +20,9 @@ layout: default
 
     <div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      {% if post.emg %}
+      {% if post.interpro %}
       <a href="{{ post.interpro.url }}" class="read-more" style="float: right;">
-        {{ post.emg.text }}
+        {{ post.interpro.text }}
       </a>
       {% endif %}
     </div>
