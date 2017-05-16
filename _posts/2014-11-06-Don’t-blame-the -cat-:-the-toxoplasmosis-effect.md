@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 category: focus
 author: Amaia Sangrador and Alex Mitchell
 ---

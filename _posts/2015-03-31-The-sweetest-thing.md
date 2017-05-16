@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 category: focus
 author: Hsin-Yu Chang
 ---
