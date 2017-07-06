@@ -5,7 +5,7 @@
 {% for category in site.categories %}
 "{{ category[0] }}": {
   {% assign post = category[1] | first %}
-  "title": "{{ post.title | escape }}",
+  "title": "{{ post.title }}",
   "url": "//{{ site.url }}{{ site.baseurl }}{{ post.url }}",
   "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | replace: '
 ', ' ' | escape }}",

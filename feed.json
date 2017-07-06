@@ -3,7 +3,7 @@
 {% assign replacer = site.url | prepend: 'src="//' | append : '/' %}
 [{% for post in site.posts %}
   {
-    "title": "{{ post.title | escape }}",
+    "title": "{{ post.title }}",
     "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
     "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | escape | strip_newlines }}",
     "category": "{{ post.category }}"{% if post.author %},
