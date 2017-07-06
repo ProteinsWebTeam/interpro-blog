@@ -1,8 +1,8 @@
 ---
-published: true
+published: false
 layout: post
 category: interpro
-title: InterPro's new skin
+title: InterPro\'s new skin
 ---
 Those of you with sharp eyes may have noticed some minor changes to the InterPro web site as we have moved to adopt EMBL-EBI's new site guidelines. 
 
