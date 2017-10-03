@@ -2,6 +2,7 @@
 published: false
 layout: post
 category: interpro
+title: Homologous SuperFamily
 ---
 InterPro entries are comprised of one or more signatures from member databases, thereby providing a unified view of protein families. Each InterPro entry is labelled with a "type" reflecting what the constituent signatures represent: families, domains, repeats or sites. As part of release 65.0, InterPro has added a new entry type, _homologous superfamily_, to complement the existing set of types. A _homologous superfamily_ is a group of proteins that share a common evolutionary origin, indicated by their structural similarities. 
 
