@@ -13,12 +13,14 @@ This difference in approach between CATH-Gene3D/SUPERFAMILY and the other member
 ## How do we represent the new entry type?
 Homologous superfamily entries are exclusively composed of CATH-Gene3D and/or SUPERFAMILY methods. They are not arranged in hierarchies, and exist as separate entities to families and domains. A typical homologous superfamily entry is shown in Figure 1.
 
-![homologous_sf_screenshot.jpg]({{site.baseurl}}/assets/media/images/posts/homologous_sf_screenshot.jpg)
+![homologous_superfamily_IPR035074.jpg]({{site.baseurl}}/assets/media/images/posts/homologous_superfamily_IPR035074.jpg)
+
 **Figure 1. InterPro entry page for homologous superfamily EspA/CesA-like.**
 
 Within the protein overview page 'Homologous superfamily' matches are shown on a separate track, in the same way as 'Domain and repeats' (see Figure 2). 
 
-![protein_YAP1_screenshot.jpg]({{site.baseurl}}/assets/media/images/posts/protein_YAP1_screenshot.jpg)
+![protein_YAP1_screenshot_1.jpg]({{site.baseurl}}/assets/media/images/posts/protein_YAP1_screenshot_1.jpg)
+
 **Figure 2. InterPro protein overview page for AP-1-like ([P19880](http://www.uniprot.org/uniprot/P19880)) transcription factor showing homologous superfamily match.**
 
 ## What does this change mean in terms of sequence analysis?
