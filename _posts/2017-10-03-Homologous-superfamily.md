@@ -20,7 +20,7 @@ Within the protein overview page 'Homologous superfamilies' matches are shown on
 
 ![protein_YAP1_screenshot_1.jpg]({{site.baseurl}}/assets/media/images/posts/protein_YAP1_screenshot_1.jpg)
 
-**Figure 2. InterPro protein overview page for AP-1-like transcription factor ([P19880](http://www.uniprot.org/uniprot/P19880)) showing _homologous superfamily_ match.**
+**Figure 2. InterPro protein overview page for AP-1-like transcription factor YAP1 ([P19880](http://www.uniprot.org/uniprot/P19880)) showing _homologous superfamily_ match.**
 
 ## What does this change mean in terms of sequence analysis?
 In the short term, this change will have little effect on sequence analysis using InterPro. All member database matches will be calculated as before, but existing CATH-Gene3D and SUPERFAMILY methods have been removed from existing InterPro entries and reintegrated into new entries corresponding to the _homologous superfamily_ type. Over time, we anticipate that the change will allow us to integrate many more entries from these databases, increasing the sequence and amino acid residue coverage provided by InterPro, and allowing us to better represent structural-based signatures.  We will also develop automated approaches for linking between _homologous superfamilies_ and other entry types (such as families or domains) to allow the connection of structural data to other entries within InterPro that may lack a sequence representative with a known protein structure.
