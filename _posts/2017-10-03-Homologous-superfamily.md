@@ -19,7 +19,6 @@ _Homologous superfamily_ entries are exclusively composed of CATH-Gene3D and/or 
 Within the protein overview page 'Homologous superfamilies' matches are shown on a separate track, in the same way as 'Domain and repeats' (see Figure 2). This view shows the relationships between the different types in InterPro.
 
 ![protein_YAP1_screenshot_1.jpg]({{site.baseurl}}/assets/media/images/posts/protein_YAP1_screenshot_1.jpg)
-
 **Figure 2. InterPro protein overview page for AP-1-like transcription factor YAP1 ([P19880](http://www.uniprot.org/uniprot/P19880)) showing _homologous superfamily_ match.**
 
 ## What does this change mean in terms of sequence analysis?
