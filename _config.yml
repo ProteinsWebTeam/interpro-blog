@@ -24,7 +24,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-16416265-1
+google_analytics: UA-16416265-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
