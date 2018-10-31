@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+category: interpro
 ---
 ## A New Post
 
