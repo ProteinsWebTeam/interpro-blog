@@ -1,7 +1,7 @@
 ---
 ---
 {% assign replacer = site.url | prepend: 'src="//' | append : '/' %}
-[{% for post in site.posts %}
+[{% for post in site.posts limit:2 %}
   {
     "title": "{{ post.title }}",
     "url": "//{{ site.url }}{{ site.baseurl }}{{ post.url }}",
