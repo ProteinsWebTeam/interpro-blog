@@ -4,7 +4,7 @@
 [{% for post in site.posts %}
   {
     "title": "{{ post.title }}",
-    "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+    "url": "//{{ site.url }}{{ site.baseurl }}{{ post.url }}",
     "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | escape | strip_newlines }}",
     "category": "{{ post.category }}"{% if post.author %},
     "author": "{{ post.author | escape }}"{% endif %}{% if post.interpro %},
