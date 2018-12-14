@@ -10,8 +10,8 @@
   "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | replace: '
 ', ' ' | escape }}",
   "category": "{{ post.category }}"{% if post.author %},
-  "author": "{{ post.author | escape }}"{% endif %}{% if post.interpro %},
   "published": "{{ post.date | json }}",
+  "author": "{{ post.author | escape }}"{% endif %}{% if post.interpro %},
   "interpro": {
     "text": "{{ post.interpro.text | escape }}",
     "url": "{{ post.interpro.url }}"
