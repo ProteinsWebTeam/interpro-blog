@@ -1,3 +1,5 @@
+---
+---
 {% assign replacer = site.url | prepend: 'src="//' | append : '/' %}
 {
 {% for category in site.categories %}
@@ -8,10 +10,8 @@
   "excerpt": "{{ post.excerpt | replace: 'src="/', replacer | replace: '
 ', ' ' | escape }}",
   "category": "{{ post.category }}"{% if post.author %},
-  "author": "{{ post.author | escape }}"{% endif %}
-  "published": "{{ post.date  }}",
-  "test": "OK",
-  {% if post.interpro %},
+  "author": "{{ post.author | escape }}"{% endif %}{% if post.interpro %},
+  "published": "{{ post.date | json }}",
   "interpro": {
     "text": "{{ post.interpro.text | escape }}",
     "url": "{{ post.interpro.url }}"
