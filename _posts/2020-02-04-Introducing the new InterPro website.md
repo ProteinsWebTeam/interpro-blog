@@ -41,16 +41,20 @@ the processing load on the site and would normally be resolved by the addition o
 Unfortunately the addition of more hardware has been delayed due to a pending relocation of our data centre.
 
 In the meantime we've been working to try and make the site more efficient by caching website queries for rapid
-response when the same query is made again. We have also been assessing queries that case particular load on the 
-servers and pre-computing the data for those queries where possible.
+response when the same query is made again. We have also been assessing queries that cause particularly heavy load 
+on the servers and pre-computing the data for those queries where possible.
 
 Another major aspect of the work we've been focussing on has been server efficiency to get the most performance out
-of the hardware we have. We've been looking at threading and process and connection management to get the most out
-of our setup. We have also been looking at running parallel clusters of nodes to allow us to increase the number of
-requests we can handle.
+of the hardware we have. We've been looking into optimising threading and connection management to get the most out
+of our setup. We have also been investigating running parallel clusters of nodes to allow us to increase the number of
+requests we can handle simulataneously, although this work is still at an experimental stage.
 
 We're going to be continuing to monitor site performance and making improvements until we have the website working
-faster. 
+faster.
+
+In addition to this we have been optimising the user experience side of things and responding to requests to enable
+users to get to the data that they want as efficiently as they can. With this in mind we have also been undertaking
+a small User Experience (UX) study to see where we should apply our efforts. 
 
 
 
