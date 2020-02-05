@@ -46,7 +46,7 @@ key additions which we hope improve the experience of using InterPro.
 ### Integration of modern web standards to provide a good experience on a variety of devices and improve the discoverability 
 of our data through search engines e.g **BioSchema**
 
-## Problems and roadbumps
+## Problems and roadmap
 As we mentioned above the launch of the new site has not been without issues. Many of these have been due to
 the processing load on the site and would normally be resolved by the addition of more hardware capacity. 
 Unfortunately the addition of more hardware has been delayed due to a pending relocation of our data centre.
@@ -62,7 +62,8 @@ requests we can handle simulataneously, although this work is still at an experi
 databases onto solid-state drives (SSD) to reduce general query times.
 
 We're going to be continuing to monitor site performance and making improvements until we have the website working
-faster.
+faster. As mentioned earlier, we should be able to add extra hardware to our website and API once the data centre 
+relocation has been completed.
 
 In addition to this we have been optimising the user experience side of things and responding to requests to enable
 users to get to the data that they want as efficiently as they can. With this in mind we have also been undertaking
