@@ -1,3 +1,11 @@
+---
+published: false
+layout: post
+category: interpro
+author: Matloob Qureshi
+---
+
+
 ![image of InterPro 7 titlebar](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-titlebar.png)
 
 # Introducing the new InterPro website
