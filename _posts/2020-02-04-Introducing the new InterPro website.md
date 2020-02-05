@@ -2,7 +2,7 @@
 
 # Introducing the new InterPro website
 
-We released a new version of the InterPro website in September 2019. This release is a complete ground-up redesign 
+We released a new version of the InterPro website in September 2019. This release was a complete ground-up redesign 
 of the website involving changes to both the underying data and the way users can interact with the data in the 
 website. Given the scale changes we made, perhaps it's unsurprising that we encountered some hiccups. We'll talk about
 those later in this post.
