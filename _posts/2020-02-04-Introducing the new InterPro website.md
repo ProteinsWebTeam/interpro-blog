@@ -11,16 +11,14 @@ author: Matloob Qureshi
 # Introducing the new InterPro website
 
 We released a new version of the InterPro website in September 2019. This release was a complete ground-up redesign 
-of the website involving changes to both the underying data and the way users can interact with the data in the 
-website. Given the scale changes we made, perhaps it's unsurprising that we encountered some hiccups. We'll talk about
-those later in this post.
+of the website involving changes to both the underying data and the web interface. Given the scale of changes we made, 
+perhaps it's unsurprising that we encountered some hiccups. We'll talk about those later in this post.
 
 ## Goals
-### Requests from users
-We looked common requests for new functionality received from users via emails to our helpdesk and other 
-communication with the team and collated a list of most requested features.
+### Add commonly requested features
+We looked at requests from users received via emails to our helpdesk and other communication with the team and collated everything into a list of the most commonly requested features.
 ### Show all entries from Member databases
-One of our key goals was to improve access to InterPro member database information within the new website. Not all entries from member databases have been integrated into InterPro entries yes, and we want to present these entries in the new site.
+One of our key goals was to improve access to InterPro member database information within the new website. For example, not all entries from member databases have been integrated into InterPro entries yet. We want to display entries defined by member databases regardless of intergration in InterPro in the new site.
 ### Ensuring codebase is flexible
 The technologies and code used to build the previous version of the website were getting increasingly outdated and
 limiting the addition of new features to the website.
@@ -32,21 +30,36 @@ were beginning to struggle to analyse the large quantities of protein data being
 We'll be going into more detail about the new website and setup in future posts but it's worth highlighting some 
 key additions which we hope improve the experience of using InterPro.
 
-### Addition of a number of new data types, **taxonomies, proteomes and sets** (from Pfam and Panther member databases)
+### Addition of a number of new data types, taxonomies, proteomes and sets (from Pfam and Panther member databases)
+The addition of new datatypes can be seen throughout the site but the **browse** tab is a good starting point for looking into how we connected these datatypes to our data.
+
 ![image data typed in new website](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-data-types.png)
-### All entries matching specific **Taxonomy nodes** or **Proteomes** can be viewed and downloaded.
+
+### All entries matching specific **Taxonomy nodes** or Proteomes can be viewed and downloaded.
+The new taxonomy or proteome page shows lists of all entries, proteins and structures linked to that node or proteome. This can be used to explore data at different levels of the taxonomic tree.
+
 ![image of Entries matching taxonomy node:9606 Homo sapiens](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-homo-sapiens-taxonomy-entry-view.png)
+
 ### InterProscan results can be viewed within the website with links to matches to InterPro and member entries.
+Just as with previous versions of the InterPro website, InterProScan sequence searches can be submitted from the search page but now we've added the ability to view the results within the website. We've also added the ability to view and share the results for as long as they're stored in the InterProScan service (currently results are stored on our servers for 1 week).
+
 ![image of InterProScan results](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-interproscan-results.png)
-### Introduction of a brand new **Application Programming Interface (API)** for downloading data via scripts
+
+### Introduction of a brand new Application Programming Interface (API for downloading data via scripts
+The new website makes use of our api to present data, but the data can be accessed directly without a browser. Documentation for the API can be found at our [github repository](https://github.com/ProteinsWebTeam/interpro7-api/tree/master/docs)
+
 ![image of API results](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-api-json.png)
-   * We also have an automated script generator to help with getting started with programmatic access.
-   ![image of API results](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-script-generator.png)
-### Entries from InterPro **Member databases** searchable and viewable throughout the website
+
+### We have an automated script generator to help with getting started with programmatic access.
+The automated script generator is a great starting point for using our API programmatically as it creates scripts in one of three languages, Python, Javascript or Perl. These scripts can be can be edited to run more complex queries.
+
+![image of API results](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-script-generator.png)
+
+### Entries from InterPro Member databases searchable and viewable throughout the website
 ![image of member database selector](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-member-databases.png)
-### **Interactive 3D representations** of structures, highlighting the location entry matches within the structure.
+### Interactive 3D representations of structures, highlighting the location entry matches within the structure.
 ![image of 3D structure highlighting entry](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-litemol.png)
-### We show the following information when showing proteins in the new **ProtVista** graphical view:
+### We show the following information when showing proteins in the new ProtVista graphical view:
   * **Hydrophobicity plot** of whole protein.
   * **Match convservation plot** of Pfam matches to protein showing the extent to which the protein matches the HMM model.
   * **Genome 3D predictions** on protein (where available).
@@ -76,6 +89,8 @@ relocation has been completed.
 In addition to this we have been optimising the user experience side of things and responding to requests to enable
 users to get to the data that they want as efficiently as they can. With this in mind we have also been undertaking
 a small User Experience (UX) study to see where we should apply our efforts. 
+
+We'll keep you updated with more information InterPro soon
 
 
 
