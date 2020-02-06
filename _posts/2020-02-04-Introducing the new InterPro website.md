@@ -57,18 +57,28 @@ The automated script generator is a great starting point for using our API progr
 
 ### Entries from InterPro Member databases searchable and viewable throughout the website
 ![image of member database selector](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-member-databases.png)
-### Interactive 3D representations of structures, highlighting the location entry matches within the structure.
+
+### Interactive 3D representations of structures, highlighting the location of entry matches within the structure.
 ![image of 3D structure highlighting entry](https://github.com/ProteinsWebTeam/interpro-blog/blob/master/assets/media/images/posts/interpro7-litemol.png)
-### We show the following information when showing proteins in the new ProtVista graphical view:
+
+### We show the following information when showing proteins in the new Nightingale graphical view:
   * **Hydrophobicity plot** of whole protein.
   * **Match convservation plot** of Pfam matches to protein showing the extent to which the protein matches the HMM model.
   * **Genome 3D predictions** on protein (where available).
   * **Isoforms** can be selected to view matches to particular splice variants.
-### Integration of modern web standards to provide a good experience on a variety of devices and improve the discoverability 
-of our data through search engines e.g **BioSchema**
+
+### Modern responsive design
+Integration of modern web standards to provide a good experience on a variety of devices and improve the discoverability 
+of our data through search engines e.g [**BioSchema**](https://bioschemas.org/). 
+
+### Modular components
+Some of elements of the new website are available as custom elements and can be downloaded and integrated into users own tools and websites.
+
+ * [Taxonomy visualisation library](https://www.npmjs.com/package/taxonomy-visualisation)
+ * [Nightingale visualisation component](https://github.com/ebi-webcomponents/nightingale)
 
 ## Problems and roadmap
-As we mentioned above the launch of the new site has not been without issues. Many of these have been due to
+As we mentioned earlier, the launch of the new site has not been without issues. Many of these have been due to
 the processing load on the site and would normally be resolved by the addition of more hardware capacity. 
 Unfortunately the addition of more hardware has been delayed due to a pending relocation of our data centre.
 
