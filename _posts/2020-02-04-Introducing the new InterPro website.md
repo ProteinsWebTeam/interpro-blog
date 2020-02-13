@@ -6,7 +6,7 @@ author: Matloob Qureshi
 ---
 
 
-![image of InterPro 7 titlebar]({{site.baseurl}}/assets/media/images/posts/interpro7-titlebar.png)
+![image of InterPro 7 titlebar](/assets/media/images/posts/interpro7-titlebar.png)
 
 # Introducing the new InterPro website
 
@@ -38,38 +38,38 @@ key additions which we hope improve the experience of using InterPro.
 The addition of new datatypes can be seen throughout the site, but the **browse** tab is a good starting point to see how we 
 have connected these datatypes to our InterPro data.
 
-![image data typed in new website]({{site.baseurl}}/assets/media/images/posts/interpro7-data-types.png)
+![image data typed in new website](/assets/media/images/posts/interpro7-data-types.png)
 
 ### Ability to view/download entries matching a specific proteome or taxonomic node
 The new taxonomy and proteome pages provide lists of all entries, proteins and structures related to that taxonomic node or 
 proteome. This can be used to explore data at different levels of the taxonomic tree.
 
-![image of Entries matching taxonomy node:9606 Homo sapiens]({{site.baseurl}}/assets/media/images/posts/interpro7-homo-sapiens-taxonomy-entry-view.png)
+![image of Entries matching taxonomy node:9606 Homo sapiens](/assets/media/images/posts/interpro7-homo-sapiens-taxonomy-entry-view.png)
 
 ### Ability to view InterProscan results within the website
 As with the previous version of the InterPro website, InterProScan sequence searches can be submitted from the search page. 
 It is now possible to view the results within the website. We have added the ability to view and share the results for as 
 long as they are stored in the InterProScan service (currently results are stored on our servers for 1 week).
 
-![image of InterProScan results]({{site.baseurl}}/assets/media/images/posts/interpro7-interproscan-results.png)
+![image of InterProScan results](/assets/media/images/posts/interpro7-interproscan-results.png)
 
 ### Introduction of a new Application Programming Interface (API) for downloading data via scripts
 The new website actually makes use of the API to provide the content of the various webpages. The data can also be accessed 
 directly without a browser. Documentation for the API can be found at our [github repository](https://github.com/ProteinsWebTeam/interpro7-api/tree/master/docs)
 
-![image of API results]({{site.baseurl}}/assets/media/images/posts/interpro7-api-json.png)
+![image of API results](/assets/media/images/posts/interpro7-api-json.png)
 
 ### Automated script generator to help get started with programmatic access.
 The automated script generator is a great starting point for using our API programmatically as it creates scripts in one of 
 three languages, Python, Javascript or Perl. These scripts can be can be edited to run more complex queries.
 
-![image of API results]({{site.baseurl}}/assets/media/images/posts/interpro7-script-generator.png)
+![image of API results](/assets/media/images/posts/interpro7-script-generator.png)
 
 ### InterPro member database entry pages searchable and viewable throughout the website
-![image of member database selector]({{site.baseurl}}/assets/media/images/posts/interpro7-member-databases.png)
+![image of member database selector](/assets/media/images/posts/interpro7-member-databases.png)
 
 ### Interactive 3D representations of structures, highlighting the location of entry matches within the structure.
-![image of 3D structure highlighting entry]({{site.baseurl}}/assets/media/images/posts/interpro7-litemol.png)
+![image of 3D structure highlighting entry](/assets/media/images/posts/interpro7-litemol.png)
 
 ### New Nightingale graphical view of protein shows the following information:
   * **Hydrophobicity plot** of whole protein.
