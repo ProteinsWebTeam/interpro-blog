@@ -91,7 +91,7 @@ and websites.
 ## Problems and roadmap
 As we mentioned earlier, the launch of the new site has not been without issues. Many of these have been due to
 the processing load on the site, and would normally be resolved by the addition of more hardware capacity. 
-Unfortunately the addition of more hardware has been delayed due to a pending relocation of our data centre.
+Unfortunately the addition of more hardware has been delayed due to a pending relocation of the EBI data centre.
 
 In the meantime we've been working to try to make the site more efficient by caching website queries for rapid
 response when the same query is made again. We have also been assessing queries that cause particularly heavy load 
