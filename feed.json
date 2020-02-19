@@ -13,6 +13,7 @@
     "interpro": {
       "text": "{{ post.interpro.text | escape }}",
       "url": "{{ post.interpro.url }}"
-    }{% endif %}
+    }{% endif %}{% if post.image_category %},
+    "image_category": {{post.image_category}}{% endif %}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}]

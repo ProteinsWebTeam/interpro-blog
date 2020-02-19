@@ -3,6 +3,7 @@ published: false
 layout: post
 category: interpro
 author: Gustavo A. Salazar
+image_category: technical
 ---
 
 InterPro7: A not-so-formal technical view
