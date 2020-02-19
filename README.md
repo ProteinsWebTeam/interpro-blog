@@ -19,7 +19,7 @@ excerpt
 image_category
 ```
 
-###Options
+### Options
 _Published_ is either true or false depending on the post's published status.
 
 _Layout_ is post by default.
