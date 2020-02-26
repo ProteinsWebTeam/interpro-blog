@@ -2,7 +2,7 @@
 published: true
 layout: post
 category: interpro
-image_category: "website"
+image_category: "website."
 author: Matloob Qureshi
 excerpt: We released a new version of the InterPro website in September 2019. We'll talk about some of the new features in this post.
 ---
