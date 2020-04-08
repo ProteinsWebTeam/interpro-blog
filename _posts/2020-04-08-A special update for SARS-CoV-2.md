@@ -4,6 +4,7 @@ layout: post
 category: interpro
 image_category: website
 author: Lorna Richardson/Rob Finn
+title: InterPro 78.1 - A special update for SARS-CoV-2
 excerpt: We have released a special update to InterPro (78.1) with improved coverage of the SARS-CoV-2 protein sequences.
 ---
 
