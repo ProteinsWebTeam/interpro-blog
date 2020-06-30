@@ -76,3 +76,9 @@ timezone: Europe/London
 # prose-specific config
 prose:
   media: assets/media/images/posts
+
+
+defaults:
+- scope:
+    path: "potm/"
+  encoding: "windows-1252"
