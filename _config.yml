@@ -74,7 +74,7 @@ timezone: Europe/London
 #excerpt_separator: "<!--more-->"
 
 # Changing encoding to support all htm POTM files
-encoding: ISO Latin 1
+encoding: iso-8859-1
 
 # prose-specific config
 prose:
