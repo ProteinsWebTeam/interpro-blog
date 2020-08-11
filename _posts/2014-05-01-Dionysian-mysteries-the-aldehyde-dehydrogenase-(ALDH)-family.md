@@ -48,7 +48,7 @@ bright side, they are less likely to suffer alcohol addiction problems
 [8]. In fact, there is a drug called disulfiram that causes symptoms
 similar to Asian flush syndrome that is used to treat alcoholism.
 
-![figure1.png]({{site.baseurl}}/assets/media/images/posts/figure1.png)
+![Figure1.png]({{site.baseurl}}/assets/media/images/posts/Figure1.png)
 Figure 1. The protein structure of a single subunit of ALDH2.
 Residue 487 is indicated in violet. ALDH2\*2 αG helix is shown in red,
 wild type I shown in blue. Picture modified from Larson et al. 2005. [3]
