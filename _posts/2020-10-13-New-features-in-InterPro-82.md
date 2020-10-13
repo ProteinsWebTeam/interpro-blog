@@ -1,13 +1,10 @@
 ---
 published: false
----
----
-published: false
 layout: post
 category: interpro
 image_category: website
 author: Typhaine Paysan-Lafosse
-title: 'New features in InterPro 82.0'
+title: New features in InterPro 82.0
 ---
 InterPro 82.0 has been released with plenty of new InterPro entries, but also with many new features and improvements. This blog post describes the new key features you can expect to encounter while navigating the InterPro website.
 
@@ -57,4 +54,3 @@ When performing a text search, the searched term is highlighted by default in th
 
 ![toggle.png]({{site.baseurl}}/assets/media/images/posts/toggle.png)
 **Figure 7. Highlight of the “kinase” text search term in the list of results. The highlight can be disabled by clicking on the H button (pointed by the red arrow).**
-
