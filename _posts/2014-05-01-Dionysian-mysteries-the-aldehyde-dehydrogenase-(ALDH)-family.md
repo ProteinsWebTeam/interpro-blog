@@ -5,20 +5,11 @@ category: focus
 author: Hsin-Yu Chang and Alex Mitchell
 ---
 Do you have friends that cannot handle alcoholic drinks? Just half a
-pint of beer or a few sips of wine, and their faces turn red, possibly
-with some hangover symptoms, such as headaches and nausea? You may envy
-their cheap night out, but wonder why these people cannot tolerate
-alcohol as you do. The phenomenon is called ‘alcohol flush reaction’,
-also known as ‘Asian flush syndrome’, due to its association with the
-Asian population. It is a condition caused by the accumulation of
-acetaldehyde, a metabolic byproduct of the catabolic metabolism of
-alcohol.
+pint of beer or a few sips of wine, and their faces turn red, possibly with some hangover symptoms, such as headaches and nausea? You may envy their cheap night out, but wonder why these people cannot tolerate alcohol as you do. The phenomenon is called ‘alcohol flush reaction’, also known as ‘Asian flush syndrome’, due to its association with the Asian population. It is a condition caused by the accumulation of acetaldehyde, a metabolic byproduct of the catabolic metabolism of alcohol.
 
 ![ALDH_edited-1.jpg]({{site.baseurl}}/assets/media/images/posts/ALDH_edited-1.jpg)
 
-Normally, during the alcohol metabolic process, ethanol is converted to
-acetaldehyde by an alcohol dehydrogenase enzyme, called ADH1B, and then
-broken down to acetic acid by an aldehyde dehydrogenase enzyme (ALDH).
+Normally, during the alcohol metabolic process, ethanol is converted to acetaldehyde by an alcohol dehydrogenase enzyme, called ADH1B, and then broken down to acetic acid by an aldehyde dehydrogenase enzyme (ALDH).
 
 In humans, there are nineteen identified ALDH genes (ALDH1-19). Most
 Europeans have normal copy of the ALDH2 gene, whilst approximately
@@ -27,31 +18,15 @@ synthesis of a less efficient enzyme [1].
 
 ALDH2 forms homotetramers. Each subunit in the tetramer consists of
 three domains - the catalytic domain, the coenzyme-binding domain and
-the oligomerisation domain. The low activity of ALDH2\*2 is the result
-of a substitution of lysine for glutamate at position 487 (Glu487) of
-the 500-amino-acid mature enzyme [2]. The Glu487 links the
-coenzyme-binding site to the active site, which creates a stable
+the oligomerisation domain. The low activity of ALDH2\*2 is the result of a substitution of lysine for glutamate at position 487 (Glu487) of the 500-amino-acid mature enzyme [2]. The Glu487 links the coenzyme-binding site to the active site, which creates a stable
 structural scaffold contributing to catalysis (Figure 1). In the
-ALDH2\*2 apoenzyme, the presence of a lysine at residue 487 disturbs the
-hydrogen bonds and causes disruptions of the αG helix structure [3].
-This reduces affinity for the coenzyme and lowers the rate of the
-metabolic process [3].
+ALDH2\*2 apoenzyme, the presence of a lysine at residue 487 disturbs the hydrogen bonds and causes disruptions of the αG helix structure [3]. This reduces affinity for the coenzyme and lowers the rate of the metabolic process [3].
 
-As a result of this mutation, acetaldehyde accumulates whenever alcohol
-is consumed. Unfortunately, acetaldehyde is a DNA damaging agent that
-can cause cancer [4], and a higher risk of ALDH2-deficient drinkers
-developing esophageal cancer has been shown by several studies [4,5,6].
-A knock out mouse model also links ethanol consumption with higher risk
-of acetaldehyde toxicity in ALDH2 deficient individuals [7]. But whilst
-the outlook seems to be dim and gloomy for the ALDH2\*2 drinkers, on the
-bright side, they are less likely to suffer alcohol addiction problems
-[8]. In fact, there is a drug called disulfiram that causes symptoms
-similar to Asian flush syndrome that is used to treat alcoholism.
+As a result of this mutation, acetaldehyde accumulates whenever alcohol is consumed. Unfortunately, acetaldehyde is a DNA damaging agent that can cause cancer [4], and a higher risk of ALDH2-deficient drinkers developing esophageal cancer has been shown by several studies [4,5,6]. A knock out mouse model also links ethanol consumption with higher risk of acetaldehyde toxicity in ALDH2 deficient individuals [7]. But whilst the outlook seems to be dim and gloomy for the ALDH2\*2 drinkers, on the bright side, they are less likely to suffer alcohol addiction problems [8]. In fact, there is a drug called disulfiram that causes symptoms similar to Asian flush syndrome that is used to treat alcoholism.
 
 ![Figure1.png]({{site.baseurl}}/assets/media/images/posts/Figure1.png)
 Figure 1. The protein structure of a single subunit of ALDH2.
-Residue 487 is indicated in violet. ALDH2\*2 αG helix is shown in red,
-wild type I shown in blue. Picture modified from Larson et al. 2005. [3]
+Residue 487 is indicated in violet. ALDH2\*2 αG helix is shown in red, wild type I shown in blue. Picture modified from Larson et al. 2005 [3].
 
 Interestingly, some ALDH2\*2 individuals have less intense flushing
 symptoms. This is because they also have a less active form of ADH1B
@@ -59,43 +34,29 @@ symptoms. This is because they also have a less active form of ADH1B
 drinking. However, some studies have shown that these individuals may
 have higher risk of both alcoholism and cancer (Figure 2) [8, 9].
 
-![]({{site.baseurl}}/assets/media/images/posts/Figure2.png)![Figure2.png]({{site.baseurl}}/assets/media/images/posts/Figure2.png)
+![etoh.png]({{site.baseurl}}/assets/media/images/posts/etoh.png)
 Figure 2. Ethanol metabolic process.
 
 It is intriguing that a single mutation in the ALDH2 gene could cause
 alcohol-related health problems. From an evolutionary point of view,
 aldehyde dehydrogenases are utilised by different species to detoxify
-harmful chemical intermediates, and hence play an important role in cell
-survival. They catalyse the conversion of a wide variety of aldehyde
-substrates to their respective carboxylic acids, using coenzyme NAD or
-NADP. The aldehyde dehydrogenase family members contain two conserved
-sites: a cysteine active site and a glutamic acid active site
-(Figure 4). These two sites are represented by the InterPro entries
-[IPR016160](https://www.ebi.ac.uk/interpro/entry/IPR016160) and
+harmful chemical intermediates, and hence play an important role in cell survival. They catalyse the conversion of a wide variety of aldehyde substrates to their respective carboxylic acids, using coenzyme NAD or NADP. The aldehyde dehydrogenase family members contain two conserved sites: a cysteine active site and a glutamic acid active site (Figure 4). These two sites are represented by the InterPro entries [IPR016160](https://www.ebi.ac.uk/interpro/entry/IPR016160) and
 [IPR029510](https://www.ebi.ac.uk/interpro/entry/IPR029510), and are
 conserved across species, from archaea and bacteria to eukaryotes.
 
 ### ALDH in different species
 
-In contrast to humans, budding yeast have only five ALDHs. They are the
-key enzymes of the pyruvate dehydrogenase (PDH) bypass, which generates
-additional acetyl-CoA [10]. In the wine producing process, the acetate
-produced by the PDH bypass accumulates during the alcoholic fermentation
-of sugars [11]. The level of acetate has important effects on wine
-quality - most unspoiled wines have a level of 0.2 to 0.8 g of acetate
-per litre [12].
+In contrast to humans, budding yeast have only five ALDHs. They are the key enzymes of the pyruvate dehydrogenase (PDH) bypass, which generates additional acetyl-CoA [10]. In the wine producing process, the acetate produced by the PDH bypass accumulates during the alcoholic fermentation of sugars [11]. The level of acetate has important effects on wine quality - most unspoiled wines have a level of 0.2 to 0.8 g of acetate per litre [12].
 
 ![figure3.png]({{site.baseurl}}/assets/media/images/posts/figure3.png)
 Figure 3. Key enzymes of the PDH bypass pathway. PDH, pyruvate
-dehydrogenase; PDC, pyruvate decarboxylase; ADH, alcohol dehydrogenase;
-mtALDH, mitochondria ; cALDH, cytoplasmic ALDH. Modified from Wei
+dehydrogenase; PDC, pyruvate decarboxylase; ADH, alcohol dehydrogenase; mtALDH, mitochondria ; cALDH, cytoplasmic ALDH. Modified from Wei
 et al. 2009. [16]
 
 Plants also have multiple ALDHs, and 14 have been identified in
 Arabodopsis [13]. They play an important role in the adaptation of
 plants to various stresses, such as drought, salinity and extreme
-temperatures [14]. They may also be involved in different transduction
-pathways [15].
+temperatures [14]. They may also be involved in different transduction pathways [15].
 
 ![Figure4.png]({{site.baseurl}}/assets/media/images/posts/Figure4.png)
 
@@ -107,8 +68,7 @@ understand more about the relationship between ALDH2, cancers and
 alcoholism, as well potentially uncovering the safe number of alcohol
 units that ALDH2\*2 individuals can consume.
 
-So before you encourage your friends to have another glass of wine or a
-pint of beer, you may need to check if they have the Asian flush
+So before you encourage your friends to have another glass of wine or a pint of beer, you may need to check if they have the Asian flush
 symptoms, or even review their ALDH2 phenotype!
 
 ### References
