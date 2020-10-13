@@ -18,7 +18,7 @@ Protein structure models from CATH and SCOP databases are displayed in the Struc
 Users can now save their favourites entries and access them directly from the InterPro Home page. To add a favourite entry, the user needs to click on the Star symbol next to the InterPro entry name in the InterPro entry page. The star will then turn from grey to orange.
 The list of pinned entries is accessible from the Home page in the Favourite tab located next to the Latest entries tab in the data section.
 
-![favourite.mov]({{site.baseurl}}/assets/media/images/posts/favourite.mov)
+![favourite.gif]({{site.baseurl}}/assets/media/images/posts/favourite.gif)
 **Figure 2. Adding a favourite entry and accessing the list of Favourites**
 
 ## Pfam signature page updates
