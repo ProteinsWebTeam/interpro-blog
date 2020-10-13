@@ -4,13 +4,13 @@ layout: post
 category: interpro
 image_category: website
 author: Matloob Qureshi
-excerpt: We released a new version of the InterPro website in September 2019. We'll talk about some of the new features in this post.
+excerpt: >-
+  We released a new version of the InterPro website in September 2019. We'll
+  talk about some of the new features in this post.
 ---
 
 
 ![image of InterPro 7 titlebar]({{site.baseurl}}/assets/media/images/posts/interpro7-titlebar.png)
-
-# Introducing the new InterPro website
 
 We released a new version of the InterPro website in September 2019. This release was a complete ground-up redesign 
 of the website involving changes to both the underying data and the web interface. Given the scale of changes we made, 
@@ -114,6 +114,3 @@ users to get to the data that they want as efficiently as they can. With this in
 a small User Experience (UX) study to see where we should apply our efforts. 
 
 We'll keep you updated with more information soon.
-
-
-
