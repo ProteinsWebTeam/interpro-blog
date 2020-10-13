@@ -6,9 +6,6 @@ author: Gustavo A. Salazar
 image_category: technical
 ---
 
-InterPro7: A not-so-formal technical view
-=====
-
 On September 25th 2019 the traffic manager system at EBI underwent a small change: the URL https://www.ebi.ac.uk/interpro/ now redirects to a different VM. And just like that, the project we have been working on for over 3 years became the official website of InterPro.
 
 I was very proud: https://twitter.com/4ndr01d3/status/1176864755384037376
@@ -82,4 +79,3 @@ Of course, I would like to have more machines in this setup: more for the elasti
 Coming soon...
 ---
 I'll be writing a similar post about the website. Spoiler alert: expect React, Redux, Web components, webpack.
-
