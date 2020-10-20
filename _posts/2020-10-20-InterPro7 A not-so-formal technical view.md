@@ -65,6 +65,7 @@ We decided to include another layer of caching using [Redis](https://redis.io/) 
 
 The InterPro website is on average serving around 1800 users per day, but that includes weekends. On weekdays, we usually have around 2700 users, but there are days that it can go to around 4500; The highest during January 2020 was 4572 on the 6th of Jan - I guess everyone was eager to do their analysis after the holidays.
 
+Te graphic below shows how many users per week have used the InterPro website From September 2019 to August 2020.
 ![InterPro7-1stYear.png]({{site.baseurl}}/assets/media/images/posts/InterPro7-1stYear.png)
 
 I'm showing you these numbers so you know that although we are not in the major league, we have a significant number of users, and therefore our production setup requires some thought.
