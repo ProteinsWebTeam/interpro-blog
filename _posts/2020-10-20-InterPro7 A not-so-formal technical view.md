@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: interpro
 author: Gustavo A. Salazar
@@ -49,6 +49,7 @@ Our solution to this was to precalculate all these combinations and store them i
 
 Wait a minute, did I just say minutes? How is it that an API that serves a website can take minutes to answer a request? What user is going to wait several minutes for a page to load? And the answer to these and other questions is caching... **A LOT** of caching.
 
+![InterProAPI.png]({{site.baseurl}}/assets/media/images/posts/InterProAPI.png)
 
 ## API Caching strategy
 
@@ -63,6 +64,9 @@ We decided to include another layer of caching using [Redis](https://redis.io/) 
 ## Deployment in production
 
 The InterPro website is on average serving around 1800 users per day, but that includes weekends. On weekdays, we usually have around 2700 users, but there are days that it can go to around 4500; The highest during January 2020 was 4572 on the 6th of Jan - I guess everyone was eager to do their analysis after the holidays.
+
+![InterPro7-1stYear.png]({{site.baseurl}}/assets/media/images/posts/InterPro7-1stYear.png)
+
 I'm showing you these numbers so you know that although we are not in the major league, we have a significant number of users, and therefore our production setup requires some thought.
 Currently, this is what we have:
 * 3 Internet facing machines, one to serve programmatic queries and 2 to serve the website. Each machine uses apache to deal with the traffic and serve the static files. Apache connects with GUnicorn by an HTTP socket, and gunicorn is the one running our app.
