@@ -16,7 +16,7 @@ The main advantage of a SPA is that the webpage doesn't need to be rendered comp
 
 That example is not showing anything new, asynchronous JS has been around since the early 2000's and tinkering pieces of a webpage, or more formally talking, DOM manipulation is basically the reason why JavaScript exists. But building a SPA means complete immersion on that idea, the whole website is created that way and with it comes a problem of scale: If all your website is now dynamically generated in JS, how do you organise your code? and your assets? how to optimize changes in the DOM? Enter _React_.
 
-## InterPro client is a React App
+# InterPro client is a React App
 
 React is not the only framework that attempts to answer those questions. There are other widely used frameworks in the web development world, for example Angular and Vue. Without going into details of each framework, we took the decision of developing with React about 5 years ago and we are still happy with it. Back then, Vue wasn't mature enough as a technology and AngularJS was being rewritten to what is today called Angular. 
 
@@ -30,7 +30,7 @@ You can then use React components to create other components, so for example whe
 
 One thing React does very well is to limit updates to parts of the page that have changed, so if a user clicks on the Search button, all the components under the menu will change, but the menu and header will remain the same. React makes sure that the changes in the page are as efficient as possible, avoiding unnecessary renderings. It uses a technique called [Virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom).
 
-## Sharing info among components (Redux)
+# Sharing info among components (Redux)
 
 Splitting your application into small components helps to abstract the functionality of each part of your website, so you can focus on one particular thing at a time. Data in a React component can be classified into 2 types: 
 - [Props](https://reactjs.org/docs/components-and-props.html): External values that are sent to the component. You can think of them as the parameters of a function, or the attributes of an html element.
@@ -61,7 +61,7 @@ But by far, the task that uses Redux the most in our website is the handling of 
 
 Cascade of events happening when a user clicks on a link pointing to a different page in InterPro. In the initial step (1) of this scenario, the app is already in the page (/entry/InterPro/) and the redux states represent that location as shown on the table. And then (2) the user clicks on (/entry/InterPro/IPR000001/). The new logic for internal links updates the redux state (3). This triggers a series of events, including updating the URL (4) using the browser history API, and updating all the components that read the location from the state (5).
 
-## Loading data and client cache
+# Loading data and client cache
 
 One important missing piece at explaining the InterPro client is how we get the data from the API. For this we created what in React is called a [Higher-Order](https://reactjs.org/docs/higher-order-components.html) component. Which is basically a wrapper component that adds some logic to the wrapped component. Redux uses the same technique when we `connect` a component into the global state.
 
@@ -73,7 +73,7 @@ To do this the `getUrl` of the `loadData` that wraps the [EntryTypeFilter](https
 
 One more thing that happens in `loadData` is that once we get a response, it is saved in the Session Storage of the browser, and any subsequent requests for that exact data will be responded with the already obtained data, so it doesn't have to fetch data again from our API. We keep track of the InterPro data version, so this cache gets discarded when we detect there is a newer release.
 
-## Release and deployment
+# Release and deployment
 
 Although there are many details I can go from here I think this post got long enough and to be honest I doubt many people got this far into the text, but if you did, the last thing I want to mention is our release and deployment strategy.
 The tool we use for bundling and optimizing the final release is [webpack](https://webpack.js.org/). There are quite a few things that happen at that stage, sometimes webpack does the job, sometimes it orchestrates other libraries to get it done.
@@ -82,7 +82,7 @@ The code is also minimized, and we actually set it up to get compressed at this 
 But then, you ask, if you create a single bundle with all the JS files used, and what you created is a SPA, aren't you sending the whole App at once, even if the user only opens a single page and never navigates anywhere else?
 Glad you ask, on the one hand, that doesn't include the actual data, as you remember from the loadData section; on the other hand, we use a method called [code splitting](https://reactjs.org/docs/code-splitting.html), in which you make use of dynamic imports to let the bundler know where is a good place to split the code. Webpack then creates several parts of the bundle and the main bundled file includes logic to dynamically get the other parts when they are required.
 
-## Conclusions
+# Conclusions
 
 And that's it. We end up covering a lot of technologies and methods that we used for developing the new InterPro website. That, of course wasn't a complete list of all the things we used, but if you are interested in web development, it should have given you a clear idea of what we have done in this project.
 
