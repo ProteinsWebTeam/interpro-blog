@@ -5,8 +5,6 @@ category: interpro
 author: Gustavo A. Salazar
 image_category: technical
 ---
-# Technical view of the InterPro client
-
 In the [last post](https://proteinswebteam.github.io/interpro-blog/2020/10/20/InterPro7-A-not-so-formal-technical-view/) we discussed the technical details of our API. We talked about how the website influenced some of the performance requirements of the API. The website, or for that matter any other client, was seen as a black box that created requests that the API needed to respond to. In this article we will switch those roles and delve into technical details of the web client, whilst treating the API as a black box that always responds to the client's requests.
 
 Starting with the basics, the InterPro web client is a Single Page Application (SPA), this means that if you visit the [home page](https://www.ebi.ac.uk/interpro) in your browser, it executes a normal web transaction: it fetches the html file from our servers, the browser reads that file, renders the web page, and determines which other files are required: JavaScript, CSS, favicon, images, etc. The difference in SPA is that when the JavaScript (JS) is executed, it intercepts the logic in the browser to follow links and replace it with its own logic. So, if the user clicks on a link, the browser doesn't start a new web transaction, instead, the JS logic manipulates the current view of the page to reflect only the changes required by a given user interaction.
@@ -92,7 +90,4 @@ And that's it. We end up covering a lot of technologies and methods that we used
 
 The schema above compiles some of the parts that we have mentioned in this post. The top area represents the components (orange) and libraries (grey) that are included in the InterPro SPA, making a special emphasis for React and Redux, as they are the fundamental dependencies of our system. And, in the bottom area we have webpack, as the orchestrator of our release and deployment procedures, and some of the libraries used for that purpose.
 
-The InterPro client is an open source project and you can get the code in [github](https://github.com/ProteinsWebTeam/interpro7-client/). If you have any questions or suggestions, please contact us via interhelp@ebi.ac.uk and I'll be happy to talk more tech stuff. 
-
-
-
+The InterPro client is an open source project and you can get the code in [github](https://github.com/ProteinsWebTeam/interpro7-client/). If you have any questions or suggestions, please contact us via interhelp@ebi.ac.uk and I'll be happy to talk more tech stuff.
