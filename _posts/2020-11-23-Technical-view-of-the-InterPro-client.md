@@ -93,7 +93,6 @@ Glad you ask, on the one hand, that doesn't include the actual data, as you reme
 And that's it. We end up covering a lot of technologies and methods that we used for developing the new InterPro website. That, of course wasn't a complete list of all the things we used, but if you are interested in web development, it should have given you a clear idea of what we have done in this project.
 
 ![InterProSPA.png]({{site.baseurl}}/assets/media/images/posts/client/InterProSPA.png)
-
 **Figure 4.** Summary of the InterPro website components. The top area represents the components (orange) and libraries (grey) that are included in the InterPro SPA, making a special emphasis for React and Redux, as they are the fundamental dependencies of the system. In the bottom area are the webpack, which is the orchestrator of the release and deployment procedures, and some of the libraries used for that purpose.
 
 The InterPro client is an open source project and you can get the code in [github](https://github.com/ProteinsWebTeam/interpro7-client/). If you have any questions or suggestions, please contact us via interhelp@ebi.ac.uk or via twitter [@InterProDB](https://twitter.com/InterProDB) and I'll be happy to talk more tech stuff.
