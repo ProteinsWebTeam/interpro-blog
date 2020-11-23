@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: interpro
 author: Gustavo A. Salazar
@@ -9,10 +9,11 @@ In the [last post](https://proteinswebteam.github.io/interpro-blog/2020/10/20/In
 
 Starting with the basics, the InterPro web client is a Single Page Application (SPA), this means that if you visit the [home page](https://www.ebi.ac.uk/interpro) in your browser, it executes a normal web transaction: it fetches the html file from our servers, the browser reads that file, renders the web page, and determines which other files are required: JavaScript, CSS, favicon, images, etc. The difference in SPA is that when the JavaScript (JS) is executed, it intercepts the logic in the browser to follow links and replace it with its own logic. So, if the user clicks on a link, the browser doesn't start a new web transaction, instead, the JS logic manipulates the current view of the page to reflect only the changes required by a given user interaction.
 
-The main advantage of a SPA is that the webpage doesn't need to be rendered completely every time a user clicks a link: it just updates the part of the page that is required. For example, if you visit our home page and click the Citing InterPro link, the information gets displayed under that link and the rest of the page stays the same, no need for redrawing the banner, menus, or any other parts of the page.
+The main advantage of a SPA is that the webpage doesn't need to be rendered completely every time a user clicks a link: it just updates the part of the page that is required. For example, if you visit our home page and click the Citing InterPro link, the information gets displayed under that link and the rest of the page stays the same, no need for redrawing the banner, menus, or any other parts of the page, see Figure 1.
 
 
 ![InterProHomepage.png]({{site.baseurl}}/assets/media/images/posts/client/InterProHomepage.png)
+**Figure 1.** Citing InterPro information on InterPro home page.
 
 That example is not showing anything new, asynchronous JS has been around since the early 2000's and tinkering pieces of a webpage, or more formally talking, DOM manipulation is basically the reason why JavaScript exists. But building a SPA means complete immersion on that idea, the whole website is created that way and with it comes a problem of scale: If all your website is now dynamically generated in JS, how do you organise your code? and your assets? how to optimize changes in the DOM? Enter _React_.
 
@@ -24,9 +25,10 @@ Anyway, we started playing with React for demos and prototypes of the website. O
 
 React organises an app as a set of visual components. Taking a simple example from InterPro, the [Loading](https://github.com/ProteinsWebTeam/interpro7-client/blob/master/src/components/SimpleCommonComponents/Loading/index.js) component, which is basically 3 dots that are animated to inform the user that part of the page is still loading. This component is defined once and we can use it wherever we need it. We use the Loading component over 50 times in our code, it is probably the most popular of our components. If one day we decide to change that animation for something else, we would only need to change 1 file and the change will be reflected in all those 50 instances.
 
-You can then use React components to create other components, so for example when you are at the home page, we are displaying the [Header](https://github.com/ProteinsWebTeam/interpro7-client/blob/master/src/components/Header/index.js) component, which contains the [Title](https://github.com/ProteinsWebTeam/interpro7-client/tree/master/src/components/Header/Title) component, which in turn contains the [InterProLogo](https://github.com/ProteinsWebTeam/interpro7-client/blob/228fd7c415f32b9692532682e55202b7f7a6efe5/src/components/Header/Title/index.js#L33) component.
+You can then use React components to create other components, so for example when you are at the home page, we are displaying the [Header](https://github.com/ProteinsWebTeam/interpro7-client/blob/master/src/components/Header/index.js) component, which contains the [Title](https://github.com/ProteinsWebTeam/interpro7-client/tree/master/src/components/Header/Title) component, which in turn contains the [InterProLogo](https://github.com/ProteinsWebTeam/interpro7-client/blob/228fd7c415f32b9692532682e55202b7f7a6efe5/src/components/Header/Title/index.js#L33) component, see Figure 2.
 
 ![InterProComponents.png]({{site.baseurl}}/assets/media/images/posts/client/InterProComponents.png)
+**Figure 2.** InterPro header components organisation.
 
 One thing React does very well is to limit updates to parts of the page that have changed, so if a user clicks on the Search button, all the components under the menu will change, but the menu and header will remain the same. React makes sure that the changes in the page are as efficient as possible, avoiding unnecessary renderings. It uses a technique called [Virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom).
 
@@ -59,8 +61,7 @@ But by far, the task that uses Redux the most in our website is the handling of 
 - Any change in the browser history (e.g. using the back button, editing the URL in the bar), forces an update in the Redux location data structure, and then again components get updated.
 
 ![customLocation.png]({{site.baseurl}}/assets/media/images/posts/client/customLocation.png)
-
-Cascade of events happening when a user clicks on a link pointing to a different page in InterPro. In the initial step (1) of this scenario, the app is already in the page [/entry/InterPro/](https://www.ebi.ac.uk/interpro/entry/InterPro/) and the redux states represent that location as shown on the table. And then (2) the user clicks on [IPR000001](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR000001/). The new logic for internal links updates the redux state (3). This triggers a series of events, including updating the URL (4) using the browser history API, and updating all the components that read the location from the state (5).
+**Figure 3.** Cascade of events happening when a user clicks on a link pointing to a different page in InterPro. (1) In the initial step of this scenario, the app is already in the page [/entry/InterPro/](https://www.ebi.ac.uk/interpro/entry/InterPro/) and the redux states represent that location as shown on the table. (2) The user clicks on [IPR000001](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR000001/). (3) The new logic for internal links updates the redux state. This triggers a series of events, including (4) updating the URL using the browser history API, and (5) updating all the components that read the location from the state.
 
 ## Loading data and client cache
 
@@ -93,6 +94,6 @@ And that's it. We end up covering a lot of technologies and methods that we used
 
 ![InterProSPA.png]({{site.baseurl}}/assets/media/images/posts/client/InterProSPA.png)
 
-The schema above compiles some of the parts that we have mentioned in this post. The top area represents the components (orange) and libraries (grey) that are included in the InterPro SPA, making a special emphasis for React and Redux, as they are the fundamental dependencies of our system. And, in the bottom area we have webpack, as the orchestrator of our release and deployment procedures, and some of the libraries used for that purpose.
+**Figure 4.** Summary of the InterPro website components. The top area represents the components (orange) and libraries (grey) that are included in the InterPro SPA, making a special emphasis for React and Redux, as they are the fundamental dependencies of the system. In the bottom area are the webpack, which is the orchestrator of the release and deployment procedures, and some of the libraries used for that purpose.
 
 The InterPro client is an open source project and you can get the code in [github](https://github.com/ProteinsWebTeam/interpro7-client/). If you have any questions or suggestions, please contact us via interhelp@ebi.ac.uk or via twitter [@InterProDB](https://twitter.com/InterProDB) and I'll be happy to talk more tech stuff.
