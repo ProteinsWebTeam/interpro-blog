@@ -24,7 +24,7 @@ ALDH2\*2 apoenzyme, the presence of a lysine at residue 487 disturbs the hydroge
 
 As a result of this mutation, acetaldehyde accumulates whenever alcohol is consumed. Unfortunately, acetaldehyde is a DNA damaging agent that can cause cancer [4], and a higher risk of ALDH2-deficient drinkers developing esophageal cancer has been shown by several studies [4,5,6]. A knock out mouse model also links ethanol consumption with higher risk of acetaldehyde toxicity in ALDH2 deficient individuals [7]. But whilst the outlook seems to be dim and gloomy for the ALDH2\*2 drinkers, on the bright side, they are less likely to suffer alcohol addiction problems [8]. In fact, there is a drug called disulfiram that causes symptoms similar to Asian flush syndrome that is used to treat alcoholism.
 
-![Figure1.png]({{site.baseurl}}/assets/media/images/posts/Figure1.png)
+![Figure_1.png]({{site.baseurl}}/assets/media/images/posts/Figure_1.png)
 Figure 1. The protein structure of a single subunit of ALDH2.
 Residue 487 is indicated in violet. ALDH2\*2 αG helix is shown in red, wild type I shown in blue. Picture modified from Larson et al. 2005 [3].
 
