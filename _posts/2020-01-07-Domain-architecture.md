@@ -10,6 +10,7 @@ When we searched InterPro using our “search by domain architecture” option w
 
 ![]({{site.baseurl}}/assets/media/images/posts/HAP1.png)
 
+
 **Example 2: TPX2 and WDL**
 TPX2 (targeting Protein for Xklp2) from Xenopus laevis is a microtubule-associated protein that targets a plus end-directed motor (Xklp2) to the minus ends of microtubules in the mitotic spindle. It plays an important role in spindle assembly during mitosis [2]. TPX2 has a highly conserved TPX2 domain ([IPR027330](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR027330/), we named it TPX2 central domain in InterPro), an Aurora-A binding domain and a TPX2_C domain. However, in plants besides the TPX2 homologue (with three domains), several proteins were found with only the TPX2_C domain. This group of TPX2_C domain only proteins in plants has been named as WDL (or WVD2-like) proteins, as the first identified member is known as WVD2. These WDL proteins bind to microtubules; however, they have lost the function of targeting Xklp2 and were found to play roles in plant development and responses to environment cues [3, 4]. 
 
