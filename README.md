@@ -51,3 +51,4 @@ _Image_category_ is for the InterPro website to show images while rendering the 
     author:
     ```
 6. Go back to the edit mode and click on the "Unpublished" text in the top menu to make the blog post available publicly
+7. Click on the save button to commit the changes on github
