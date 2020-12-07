@@ -10,6 +10,8 @@ When we searched InterPro using our “search by domain architecture” option w
 
 ![HAP1.png]({{site.baseurl}}/assets/media/images/posts/HAP1.png)
 
+![]({{site.baseurl}}/assets/media/images/posts/HAP1_taxo.png)
+
 
 
 
