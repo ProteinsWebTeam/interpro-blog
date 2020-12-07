@@ -28,7 +28,8 @@ TPX2 (targeting Protein for Xklp2) from Xenopus laevis is a microtubule-associat
 ![]({{site.baseurl}}/assets/media/images/posts/TPX2.png)
 
 **Figure 2B.**
-![]({{site.baseurl}}/assets/media/images/posts/WDL_taxo.png)
+![WDL_taxo2.png]({{site.baseurl}}/assets/media/images/posts/WDL_taxo2.png)
+
 
 Again, we can search InterPro with the TPX2_C domain ([IPR027329](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR027329/)) but without the TPX2 central domain ([IPR027330](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR027330/)). A list of WDL proteins can be found (Fig.3, list[[see here](https://www.ebi.ac.uk/interpro/protein/UniProt/?ida=c731624b8a3c58f34c496b950f582e075fe8cd0c#table)]) and then analysed. It shows that most of the WDL proteins are found in plants (especially flowering plants). Some WDL proteins can be found in insects (such as Ssp1/Mei-38 in Drosophila) and other organisms. From the literature, it has been shown that Drosophila Ssp1/Mei-38 has very little contribution to cell division [5]. As for plants, several WDL paralogues (WDL1-7) have been identified in Arabidopsis. WVD2 and WDL1 have been shown to modulate helical organ growth and anisotropic cell expansion [3], while WDL3 is involved in light-regulated hypocotyl elongation [6]. 
 
