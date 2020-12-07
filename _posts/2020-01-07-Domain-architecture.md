@@ -8,7 +8,8 @@ HAP1 (Huntingtin-associated protein 1), TRAK1 and TRAK2 are paralogues found in 
 
 When we searched InterPro using our “search by domain architecture” option with the HAP1_N domain ([IPR006933](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR006933/)) but without the Milton domain ([IPR022154](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR022154/)), a list of HAP1-like proteins was found (Fig.1, list [[see here](https://www.ebi.ac.uk/interpro/protein/UniProt/?ida=dad3c0193ca25258608140deb36cf2bf625bb46c#table)]). The analysis of the taxonomic distribution of this group of proteins showed that HAP1-like proteins are mainly found in insects, worms, mammals and fish. This result is similar to a study published by Keatin _et al._ [1]. However, we noticed that HAP1-like proteins (around 90 proteins) are found in some species under the Neopterans Infraclass of Insecta. Several species, such as _Aphis glycines_, _Bombyx mori_, _Apis mellifera_ and _Drosophila sechellia_, have one HAP1-like protein and one Milton-like protein. The HAP1-like proteins (such as [B4HY25](https://www.uniprot.org/uniprot/B4HY25)) in these species appear to be small proteins (about 100aa). There are no reports for these group of small HAP1-like proteins and their function so far. Nevertheless, they all contain the HAP1_N domain and share protein sequence similarities with each other.
 
-![]({{site.baseurl}}/assets/media/images/posts/HAP1.png)
+![Figure 1]({{site.baseurl}}/assets/media/images/posts/HAP1.png)
+
 
 
 **Example 2: TPX2 and WDL**
