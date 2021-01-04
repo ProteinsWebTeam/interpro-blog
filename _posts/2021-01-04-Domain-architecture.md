@@ -43,7 +43,7 @@ It can’t be denied that the vast sea of the NGS (Next-generation sequencing) d
 
 ## References
 
-1. Lumsden AL, Young RL, Pezos N, Keating DJ. Huntingtin-associated protein 1: Eutherianadaptation from a TRAK-like protein,conserved gene promoter elements, andlocalization in the human intestine. BMC Evol Biol, 13;16(1):214. 2016. [PMID: [27737633](https://pubmed.ncbi.nlm.nih.gov/27737633/)]
+1. Lumsden AL, Young RL, Pezos N, Keating DJ. Huntingtin-associated protein 1: Eutherianadaptation from a TRAK-like protein,conserved gene promoter elements, andlocalization in the human intestine. BMC Evol Biol, 13;16(1):214. 2016. [[PMID: 27737633](https://pubmed.ncbi.nlm.nih.gov/27737633/)]
 
 2. Wittmann T, Wilm M, Karsenti E, Vernos I. TPX2, A novel xenopus MAP involved in spindle pole organization. J Cell Biol. 149(7):1405-18. 2000.[[PMID: 10871281](https://pubmed.ncbi.nlm.nih.gov/10871281/)]
 
