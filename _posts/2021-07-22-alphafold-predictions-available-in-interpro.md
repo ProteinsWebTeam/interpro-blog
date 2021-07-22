@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: interpro
 image_category: website
@@ -22,5 +22,3 @@ The second entry point is via the InterPro entry pages where you can also access
 ![IPR019441]({{site.baseurl}}/assets/media/images/posts/alphafold-ipr019441.png)
 
 We hope that you are able to make many new exciting discoveries using these new structures and the InterPro website.
-
-
