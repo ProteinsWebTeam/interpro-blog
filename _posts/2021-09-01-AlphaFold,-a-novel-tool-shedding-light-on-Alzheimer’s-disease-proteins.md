@@ -2,7 +2,7 @@
 published: true
 layout: post
 category: focus
-image_category: Biological
+image_category: biology
 author: Sara Chuguransky
 excerpt: >-
   Alzheimer’s disease (AD) is the most common type of dementia, affecting around
