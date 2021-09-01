@@ -39,7 +39,7 @@ _Image_category_ is for the InterPro website to show images while rendering the 
 
 ## Steps to create a new blog post
 
-1. Upload images used in the blog post to the `assets/media/images/posts` folder
+1. Upload images to be used in the blog post to the `assets/media/images/posts` folder (click on the `Add file` button), please give them meaningful names (not figure1, figure2...)
 2. Log into https://prose.io/ with your github identifiers and go into the `ProteinsWebTeam/interpro-blog/posts` folder
 3. Click on **New file**, the file name format should be `[date-of-publication]-[blog-post-title-with-dash-between-words].md`
 4. Add text and images to the article, rendering can be viewed by clicking on the eye icon on the right hand side, go back to editing by clicking on the pen icon
