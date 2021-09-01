@@ -21,7 +21,7 @@ Figure 1. Domains of human APP ([P05067](http://www.ebi.ac.uk/interpro/protein/U
 
 The complete crystal structure of APP has not been resolved, but only for domains and short Aβ fragments. Determination of protein 3D structure is laborious and time consuming, thus bioinformatic tools are key. Recently, [DeepMind](https://deepmind.com/) in conjunction with EMBL-EBI launched [AlphaFold DB](https://alphafold.ebi.ac.uk/) based on the results of AlphaFold 2.0, an AI system that predicts highly accurate 3D protein structures from the amino acid sequence for the human proteome and 20 other key organisms. This is particularly useful for proteins without an experimental structure, such as APP [8, 9]. In InterPro we have integrated these structure predictions for protein and InterPro entry pages, when available, with a link to [AlphaFold DB](https://alphafold.ebi.ac.uk/). The 3D viewer includes a colour-coded reference for the per-residue prediction confidence, therefore, the bluer the colour the higher the confidence, as shown in Figure 2.
 
-![ad_alphafold_prediction.png]({{site.baseurl}}/assets/media/images/posts/ad_alphafold_prediction.png)
+![ad_alphafold_prediction2.png]({{site.baseurl}}/assets/media/images/posts/ad_alphafold_prediction2.png)
 Figure 2. AlphaFold structural model for human APP ([P05067](http://www.ebi.ac.uk/interpro/protein/UniProt/P05067/alphafold/)).
 
 The AlphaFold page also includes a predicted aligned error section which is useful to assay accuracy between domains, in which darker green represents lower error of the prediction (Figure 3). In the case of the human APP, the structure prediction for individual domains correlates very well with the structural information available. Note that the segment from which Aβ derives (between 670-710) is mostly unstructured. However, this orientation of the different regions has not been confidently predicted by AlphaFold. The relative positions for the heparin-binding and the copper-binding domains seems to be more confidently predicted than the other domains as shown by the dark green shown beside the light pink and magenta squares in Figure 3.
@@ -36,7 +36,7 @@ Figure 4: Predicted domains in AlphaFold structural model for human APP, display
 
 For the unstructured Aβ peptide, MD simulations, confirmed by amyloid-oligomer-specific antibodies, revealed that Aβ monomer (Figure 5A) acquires the atypical α-sheet secondary structure that adopts an α-strand structure (Figure 5B) which proceeds to an α-sheet between adjacent α-strands in oligomers with opposite charges on both edges, inducing self-assembly/aggregation to form soluble oligomeric amyloid protofibrils (Figure 5C) and, finally, insoluble highly ordered amyloid fibrils with a cross β-sheet structure (Figure 5D) [5-7]. MD simulations, confirmed by amyloid-oligomer-specific antibodies, unveil the possible mechanism of Aβ aggregation.
 
-![ad_aggregation.png]({{site.baseurl}}/assets/media/images/posts/ad_aggregation.png)
+![ad_aggregation2.png]({{site.baseurl}}/assets/media/images/posts/ad_aggregation2.png)
 
 Figure 5. Image extracted from Aggregation Mechanism of Alzheimer’s Amyloid β-Peptide Mediated by α-Strand/α-Sheet Structure [5].
 
@@ -54,5 +54,3 @@ References:
 1. Jumper J et al. Highly accurate protein structure prediction with AlphaFold. Nature. 2021 Jul 15;1-7. doi: 10.1038/s41586-021-03819-2 (PMID:[34265844](https://europepmc.org/article/MED/34265844))
 1. Tunyasuvunakool K et al. Highly accurate protein structure prediction for the human proteome. Nature. 2021 Jul 22. doi: 10.1038/s41586-021-03828-1 (PMID:[34293799](https://europepmc.org/article/MED/34293799)).
 1. D.Sehnal et al. Mol* Viewer: modern web app for 3D visualization and analysis of large biomolecular structures, Nucleic Acids Research, 2021; doi: 10.1093/nar/gkab31 (PMID:[33956157](https://europepmc.org/article/MED/33956157)).
-
-
