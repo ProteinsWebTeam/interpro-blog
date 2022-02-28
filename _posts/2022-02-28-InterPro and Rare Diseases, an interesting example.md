@@ -1,5 +1,5 @@
 ---
-published: 
+published: false
 layout: post
 category: focus
 image_category: biology
@@ -8,11 +8,11 @@ excerpt: >-
   InterPro and Rare Diseases, an interesting example
 ---
 
-The 28th of February, the 29th in leap years, is the day to raise awareness of the over 5.000 rare diseases that affect millions of people worldwide [1, 2]. Although research on these disorders has increased over the last decades, there are still great challenges to overcome.
+The 28th of February, the 29th in leap years, is the day to raise awareness of the over 5,000 rare diseases that affect millions of people worldwide [1, 2]. Although research on these disorders has increased over the last decades, there are still great challenges to overcome.
 
 One of these disorders is amyotrophic lateral sclerosis (ALS), a rare fatal progressive neurodegenerative disease characterised by the death of motor neurons that eventually leads to paralysis and respiratory failure within a median of 2-5 years. The proteins most commonly affected in ALS include TDP-43, SOD1, FUS and the C9orf72 protein [3]. Besides its etiologic role in the disease, TDP-43 is currently being studied for the development of a precise biomarker for ALS [4].
 
-TDP-43 is a DNA/RNA-binding protein, which, when binding to DNA is able to prevent gene transcription, while when binding to RNA, it is involved in many RNA processes, namely mRNA transcription, splicing and stability, being essential for ribonucleoprotein particle (hnRNP) interactions and splicing activity. Therefore, it plays regulatory roles in diverse events, such as embryogenesis, central nervous system function and fat metabolism. Additionally, although TDP-43 is predominantly localised in the nucleus, it also shuttles between the nucleus and cytoplasm where it plays a role in granule assembly [6,7]. 
+TDP-43 is a DNA/RNA-binding protein, which, when binding to DNA is able to prevent gene transcription, while when binding to RNA, it is involved in many RNA processes, namely mRNA transcription, splicing and stability, being essential for ribonucleoprotein particle (hnRNP) interactions and splicing activity. Therefore, it plays regulatory roles in diverse events, such as embryogenesis, central nervous system function and fat metabolism. Additionally, although TDP-43 is predominantly localised in the nucleus, it also shuttles between the nucleus and cytoplasm where it plays a role in granule assembly [6, 7]. 
 
 TDP-43 is a multidomain protein, consisting of an N-terminal domain which includes a nuclear localization sequence (NLS), two RNA recognition motifs (RRM1/2) and a glycine-rich intrinsically disordered C-terminal domain [5, 6, 8]. Figure 1 shows the different domains for human TDP-43 [Q13148](https://www.ebi.ac.uk/interpro/protein/reviewed/Q13148/) in InterPro.
 
@@ -20,7 +20,7 @@ TDP-43 is a multidomain protein, consisting of an N-terminal domain which includ
 
 Figure 1. InterPro provides an accessible summary on the current knowledge of the protein, with curated functional annotations and automatic predictions, such as the C-terminal disordered regions. Links to the InterPro entry pages: TDP-43 N-terminal [IPR041105](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR041105/) and RRM [IPR000504](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR000504/) domains, RNA-binding domain superfamily [IPR035979](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR035979/), Nucleotide-binding alpha-beta plait domain superfamily [IPR012677](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR012677/) and to [UniProt](https://www.uniprot.org/uniprot/Q13148) are available as well as downloadable options.
 
-A remarkable neuropathological hallmark of ALS is the presence of cytoplasmic protein aggregates of which TDP-43 is a major component, that contribute to motor neurodegeneration [5,6]. Interestingly, these aggregates have been detected in nearly 97% of ALS patients, although mutations in the gene codifying for TDP-43 are seen in less than 5% of ALS cases [9]. Post-translational modifications, such as phosphorylation and cleavage of C-terminal fragments exacerbate its aggregation [6]. The C-terminal domain shows low sequence complexity similar to a prion-like domain, a key factor for the protein-protein interactions on TCP-43 [9,10]. Although the purification of TDP-43 has been possible [11], the structure of the entire protein has not been experimentally resolved yet, as shown in Figure 2. This is due to the low complexity nature of the C-terminal region. Structural studies have reported that the C-terminal domain is responsible for aggregation, although the other domains also contribute to this event [6].
+A remarkable neuropathological hallmark of ALS is the presence of cytoplasmic protein aggregates of which TDP-43 is a major component, that contribute to motor neurodegeneration [5, 6]. Interestingly, these aggregates have been detected in nearly 97% of ALS patients, although mutations in the gene coding for TDP-43 are seen in less than 5% of ALS cases [9]. Post-translational modifications, such as phosphorylation and cleavage of C-terminal fragments exacerbate its aggregation [6]. The C-terminal domain shows low sequence complexity similar to a prion-like domain, a key factor for the protein-protein interactions on TCP-43 [9, 10]. Although the purification of TDP-43 has been possible [11], the structure of the entire protein has not been experimentally resolved yet, as shown in Figure 2. This is due to the low complexity nature of the C-terminal region. Structural studies have reported that the C-terminal domain is responsible for aggregation, although the other domains also contribute to this event [6].
 
 ![als_structures.png]({{site.baseurl}}/assets/media/images/posts/als_structures.png)
 
@@ -32,7 +32,7 @@ When available, an [AlphaFold](https://www.ebi.ac.uk/interpro/protein/reviewed/Q
 
 Figure 3. Structure prediction of [Q13148](https://www.ebi.ac.uk/interpro/protein/reviewed/Q13148/alphafold/) from AlphaFold, an overview of the full length protein.
 
-It has been shown that the aggregation of this protein within motor nerves occurs before axonal degeneration, therefore, it may constitute an interesting and useful marker for earlier diagnosis of ALS, which is essential for the efficacy of any treatment [13]. Interpro integrates information from several databases and is regularly updated, which represents an important tool to assist researchers in the development of, not only novel therapies, but also diagnosis techniques for earlier detection of this kind of illnesses. Both are key to improving the quality of life of the affected people. 
+It has been shown that the aggregation of this protein within motor nerves occurs before axonal degeneration, therefore, it may constitute an interesting and useful marker for earlier diagnosis of ALS, which is essential for the efficacy of any treatment [13]. InterPro integrates information from several databases and is regularly updated, which represents an important tool to assist researchers in the development of, not only novel therapies, but also diagnosis techniques for earlier detection of this kind of illnesses. Both are key to improving the quality of life of the affected people. 
 
 References:
 
