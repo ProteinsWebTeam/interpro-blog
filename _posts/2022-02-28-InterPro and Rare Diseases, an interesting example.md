@@ -3,7 +3,7 @@ published: true
 layout: post
 category: focus
 image_category: biology
-author: Beatriz Lazaro Pinto & Sara Chuguransky
+author: Beatriz Lazaro Pinto and Sara Chuguransky
 excerpt: 'InterPro and Rare Diseases, an interesting example'
 ---
 
@@ -44,6 +44,7 @@ References:
 1. Budini et al. Cellular model of TAR DNA-binding protein 43 (TDP-43) aggregation based on its C-terminal Gln/Asn-rich region. The Journal of Biological Chemistry, 10 Jan 2012, 287(10):7512-7525. doi: 10.1074/jbc.m111.288720 (PMID: [22235134](https://europepmc.org/article/MED/22235134)).
 1. Floare ML et al. Why TDP-43? Why Not? Mechanisms of Metabolic Dysfunction in Amyotrophic Lateral Sclerosis. Neuroscience Insights, 17 Sep 2020, 15:2633105520957302. doi: 10.1177/2633105520957302 (PMID: [32995749](https://europepmc.org/article/MED/32995749)).
 1. Versluys L et al. Expanding the TDP-43 Proteinopathy Pathway From Neurons to Muscle: Physiological and Pathophysiological Functions. Frontiers in Neuroscience, 03 Feb 2022, 16:815765. doi: 10.3389/fnins.2022.815765 (PMID: [35185458](https://europepmc.org/article/MED/35185458)).
+1. Prasad A et al. Molecular Mechanisms of TDP-43 Misfolding and Pathology in Amyotrophic Lateral Sclerosis. Front Mol Neurosci. 2019 Feb 14;12:25. doi: 10.3389/fnmol.2019.00025. (PMID: [30837838](https://europepmc.org/article/MED/30837838))
 1. Vivoli Vega M et al. Isolation and characterization of soluble human full-length TDP-43 associated with neurodegeneration. FASEB J. 2019 Oct;33(10):10780-10793.
 doi: 10.1096/fj.201900474R. Epub 2019 Jul 9. (PMID: [31287959](https://europepmc.org/article/MED/31287959)).
 1. Jumper J et al. Highly accurate protein structure prediction with AlphaFold. Nature. 2021 Jul 15;1-7. doi: 10.1038/s41586-021-03819-2 (PMID: [34265844](https://europepmc.org/article/MED/34265844)).
