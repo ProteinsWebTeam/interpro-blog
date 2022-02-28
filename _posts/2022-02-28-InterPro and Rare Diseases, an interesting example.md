@@ -16,19 +16,19 @@ TDP-43 is a DNA/RNA-binding protein, which, when binding to DNA is able to preve
 
 TDP-43 is a multidomain protein, consisting of an N-terminal domain which includes a nuclear localization sequence (NLS), two RNA recognition motifs (RRM1/2) and a glycine-rich intrinsically disordered C-terminal domain [5, 6, 8]. Figure 1 shows the different domains for human TDP-43 [Q13148](https://www.ebi.ac.uk/interpro/protein/reviewed/Q13148/) in InterPro.
 
-![fig 1]()
+![als_doms_ipr_prot_page.png]({{site.baseurl}}/assets/media/images/posts/als_doms_ipr_prot_page.png)
 
 Figure 1. InterPro provides an accessible summary on the current knowledge of the protein, with curated functional annotations and automatic predictions, such as the C-terminal disordered regions. Links to the InterPro entry pages: TDP-43 N-terminal [IPR041105](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR041105/) and RRM [IPR000504](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR000504/) domains, RNA-binding domain superfamily [IPR035979](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR035979/), Nucleotide-binding alpha-beta plait domain superfamily [IPR012677](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR012677/) and to [UniProt](https://www.uniprot.org/uniprot/Q13148) are available as well as downloadable options.
 
 A remarkable neuropathological hallmark of ALS is the presence of cytoplasmic protein aggregates of which TDP-43 is a major component, that contribute to motor neurodegeneration [5,6]. Interestingly, these aggregates have been detected in nearly 97% of ALS patients, although mutations in the gene codifying for TDP-43 are seen in less than 5% of ALS cases [9]. Post-translational modifications, such as phosphorylation and cleavage of C-terminal fragments exacerbate its aggregation [6]. The C-terminal domain shows low sequence complexity similar to a prion-like domain, a key factor for the protein-protein interactions on TCP-43 [9,10]. Although the purification of TDP-43 has been possible [11], the structure of the entire protein has not been experimentally resolved yet, as shown in Figure 2. This is due to the low complexity nature of the C-terminal region. Structural studies have reported that the C-terminal domain is responsible for aggregation, although the other domains also contribute to this event [6].
 
-![fig 2]()
+![als_structures.png]({{site.baseurl}}/assets/media/images/posts/als_structures.png)
 
 Figure 2. Experimental structures corresponding to each domain of TDP-43 are displayed in the [Structures](https://www.ebi.ac.uk/interpro/protein/reviewed/Q13148/structure/PDB/#table) tab of the InterPro protein page.
 
 When available, an [AlphaFold](https://www.ebi.ac.uk/interpro/protein/reviewed/Q13148/alphafold/) tab, which includes structure predictions based on full-length protein sequences developed by [AlphaFold DB](https://alphafold.ebi.ac.uk) [12] allows the visualisation of all domains and disordered/low complexity regions of TDP-43 (Figure 3) and facilitates the analysis of domain interactions and space arrangement when experimental structures are not available.
 
-![fig 3]()
+![als_af_pred.png]({{site.baseurl}}/assets/media/images/posts/als_af_pred.png)
 
 Figure 3. Structure prediction of [Q13148](https://www.ebi.ac.uk/interpro/protein/reviewed/Q13148/alphafold/) from AlphaFold, an overview of the full length protein.
 
