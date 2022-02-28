@@ -4,7 +4,7 @@ layout: post
 category: focus
 image_category: biology
 author: Beatriz Lazaro Pinto &amp; Sara Chuguransky
-excerpt: 'InterPro and Rare Diseases, an interesting example'
+excerpt: 'The 28th of February, the 29th in leap years, is the day to raise awareness of the over 5,000 rare diseases that affect millions of people worldwide.'
 ---
 
 The 28th of February, the 29th in leap years, is the day to raise awareness of the over 5,000 rare diseases that affect millions of people worldwide [1, 2]. Although research on these disorders has increased over the last decades, there are still great challenges to overcome.
