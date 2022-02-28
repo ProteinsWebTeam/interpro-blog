@@ -3,7 +3,7 @@ published: true
 layout: post
 category: focus
 image_category: biology
-author: Beatriz Lazaro Pinto and Sara Chuguransky
+author: Beatriz Lazaro Pinto &amp; Sara Chuguransky
 excerpt: 'InterPro and Rare Diseases, an interesting example'
 ---
 
@@ -35,7 +35,7 @@ It has been shown that the aggregation of this protein within motor nerves occur
 
 References:
 
-1. https://www.rarediseaseday.org/what-is-rare-disease-day/
+1. [https://www.rarediseaseday.org/what-is-rare-disease-day/](https://www.rarediseaseday.org/what-is-rare-disease-day/)
 1. Richter T et al. Rare Disease Terminology and Definitions-A Systematic Global Review: Report of the ISPOR Rare Disease Special Interest Group. Value in Health. 2015, Aug 18.  18(6):906-914 DOI: 10.1016/j.jval.2015.05.008 (PMID: [26409619](https://europepmc.org/article/MED/26409619)).
 1. Hulisz D. Amyotrophic lateral sclerosis: disease state overview. The American Journal of Managed Care, 01 Aug 2018, 24(15 Suppl):S320-S326 (PMID: [30207670](https://europepmc.org/article/MED/30207670)).
 1. Feneberg E et al. Towards a TDP-43-Based Biomarker for ALS and FTLD. Molecular Neurobiology, 19 Feb 2018, 55(10):7789-7801. doi: 10.1007/s12035-018-0947-6. (PMID: [29460270](https://europepmc.org/article/MED/29460270)).
