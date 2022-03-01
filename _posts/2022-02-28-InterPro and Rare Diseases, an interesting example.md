@@ -3,7 +3,7 @@ published: true
 layout: post
 category: focus
 image_category: biology
-author: Beatriz Lazaro Pinto &amp; Sara Chuguransky
+author: Beatriz Lazaro Pinto/Sara Chuguransky
 excerpt: >-
   The 28th of February, the 29th in leap years, is the day to raise awareness of
   the over 5,000 rare diseases that affect millions of people worldwide.
