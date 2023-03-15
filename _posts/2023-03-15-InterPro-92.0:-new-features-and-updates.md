@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+category: interpro
+image_category: website
+author: Typhaine Paysan-Lafosse
 ---
 This release includes new features and improvements to the InterPro website. The list of changes is detailed below. If you have any feedback or suggestions, please [contact us](https://www.ebi.ac.uk/support/interpro).
 
