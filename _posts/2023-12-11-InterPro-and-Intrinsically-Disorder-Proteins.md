@@ -1,6 +1,10 @@
 ---
 published: false
----
+layout: post
+category: interpro
+image_category: website
+author: Luis Sanchez-Pulido
+------
 
 ## InterPro and Intrinsically Disordered Proteins
 
