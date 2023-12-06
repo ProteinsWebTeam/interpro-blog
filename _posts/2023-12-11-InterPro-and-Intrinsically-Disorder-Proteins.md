@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-category: interpro
+category: focus
 image_category: website
 author: Luis Sanchez-Pulido
 ------
