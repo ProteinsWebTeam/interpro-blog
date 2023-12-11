@@ -2,7 +2,7 @@
 published: false
 layout: post
 category: focus
-image_category: website
+image_category: biology
 author: Luis Sanchez-Pulido
 ---
 ##  Structure is more conserved than sequence
