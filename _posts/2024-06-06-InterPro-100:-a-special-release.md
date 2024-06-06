@@ -3,12 +3,12 @@ layout: post
 category: interpro
 image_category: website
 author: Typhaine Paysan-Lafosse
+published: false
 ---
 This month we are celebrating the InterPro centenary release! It includes new features and improvements to the InterPro website. The list of changes is detailed in this post. If you have any feedback or suggestions, please [contact us](https://www.ebi.ac.uk/support/interpro).
 
 ## Post content
 - [Data updates](#data-updates)
-- [New features](#new-features)
 - [Search by protein name](#search-by-protein-name)
 - [Short name shown in table of entries](#short-name-shown-in-table-of-entries)
 - [Links to Foldseek](#links-to-foldseek)
@@ -69,5 +69,3 @@ Help shape the future of open data resources by sharing your experience.
 The survey is open until June 17th, and we welcome responses from all over the world, regardless of usage level. 
 
 EMBL-EBI and collaborators manage over 40 open data resources spanning different data types for the life sciences. We rely heavily on the feedback of our user communities to shape the development of these data resources, and ensure they fulfil the ever-changing needs of our users. This is your chance to have a say.
-
-
