@@ -3,7 +3,6 @@ layout: post
 category: interpro
 image_category: website
 author: Typhaine Paysan-Lafosse
-published: false
 ---
 This month we are celebrating the InterPro centenary release! It includes new features and improvements to the InterPro website. The list of changes is detailed in this post. If you have any feedback or suggestions, please [contact us](https://www.ebi.ac.uk/support/interpro).
 
