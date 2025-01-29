@@ -1,3 +1,10 @@
+---
+published: false
+layout: post
+category: focus
+image_category: biology
+author: Typhaine Paysan-Lafosse
+---
 Parkinson's disease (PD) is a complex neurodegenerative disorder that affects millions worldwide. As our population ages, understanding this condition becomes increasingly crucial. In this post, we'll delve into the molecular underpinnings of PD, focusing on the key proteins that play pivotal roles in its development and progression.
 
 ## What is Parkinson's Disease?
@@ -59,34 +66,63 @@ Disclaimer: This post has been written with the help of Perplexity.ai and its co
 
 ## References
 1.Kouli A, Torsney KM, Kuan W-L. Parkinson’s Disease: Etiology, Neuropathology, and Pathogenesis. Parkinson’s Disease: Pathogenesis and Clinical Aspects [Internet]. Codon Publications; 2018.
+
 2.Jankovic J, Tan EK. Parkinson’s disease: etiopathogenesis and treatment. J Neurol Neurosurg Psychiatry. 2020;91: 795–808.
+
 3.Parkinson’s Community Help. “The Parkinson’s Journey: Understanding Progression” – Webinar Notes Stanford PD Community Blog. 16 Sep 2021 [cited 27 Jan 2025]. Available: https://parkinsonsblog.stanford.edu/2021/09/the-parkinsons-journey-understanding-progression-webinar-notes/
+
 4.Stages of Parkinson’s. In: Massachusetts General Hospital [Internet]. [cited 27 Jan 2025]. Available: https://www.massgeneral.org/neurology/treatments-and-services/parkinsons-disease/stages
+
 5.Zafar S, Yaddanapudi SS. Parkinson Disease. StatPearls [Internet]. StatPearls Publishing; 2023.
+
 6.Parkinson’s disease. Wikimedia Foundation, Inc.; 22 Jul 2001 [cited 27 Jan 2025]. Available: https://en.wikipedia.org/wiki/Parkinson%27s_disease
+
 7.Causes. In: Parkinson’s Foundation [Internet]. [cited 27 Jan 2025]. Available: https://www.parkinson.org/understanding-parkinsons/causes
+
 8.Website. Available: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61393-3/fulltext#fig3
+
 9.The Parkinson’s disease protein alpha-synuclein is a modulator of processing bodies and mRNA stability. Cell. 2022;185: 2035–2056.e33.
+
 10.Burbulla LF, Song P, Mazzulli JR, Zampese E, Wong YC, Jeon S, et al. Dopamine oxidation mediates mitochondrial and lysosomal dysfunction in Parkinson’s disease. Science. 2017 [cited 27 Jan 2025]. doi:10.1126/science.aam9080
+
 11.Zach S, Felk S, Gillardon F. Signal Transduction Protein Array Analysis Links LRRK2 to Ste20 Kinases and PKC Zeta That Modulate Neuronal Plasticity. PLOS ONE. 2010;5: e13191.
+
 12.Zhang X, Kortholt A. LRRK2 Structure-Based Activation Mechanism and Pathogenesis. Biomolecules. 2023;13: 612.
+
 13.Leschziner AE, Reck‐Peterson SL. Structural Biology of LRRK2 and its Interaction with Microtubules. Movement Disorders. 2021;36: 2494.
+
 14.Structural analysis of the full-length human LRRK2. Cell. 2021;184: 3519–3527.e10.
+
 15.Gómez-Benito M, Granado N, García-Sanz P, Michel A, Dumoulin M, Moratalla R. Modeling Parkinson’s Disease With the Alpha-Synuclein Protein. Front Pharmacol. 2020;11: 524328.
+
 16.Giusto E, Yacoubian TA, Greggio E, Civiero L. Pathways to Parkinson’s disease: a spotlight on 14-3-3 proteins. npj Parkinson’s Disease. 2021;7: 1–14.
+
 17.Abdi G, Jain M, Patil N, Upadhyay B, Vyas N, Dwivedi M, et al. 14-3-3 proteins—a moonlight protein complex with therapeutic potential in neurological disorder: in-depth review with Alzheimer’s disease. Front Mol Biosci. 2024;11: 1286536.
+
 18.14-3-3 Phosphorylation as a Biomarker for Parkinson’s Disease. In: The Michael J. Fox Foundation for Parkinson’s Research | Parkinson's Disease [Internet]. [cited 27 Jan 2025]. Available: https://www.michaeljfox.org/grant/14-3-3-phosphorylation-biomarker-parkinsons-disease
+
 19.Slone SR, Lavalley N, McFerrin M, Wang B, Yacoubian TA. Increased 14-3-3 phosphorylation observed in Parkinson’s disease reduces neuroprotective potential of 14-3-3 proteins. Neurobiology of disease. 2015;79. doi:10.1016/j.nbd.2015.02.032
+
 20.Bonifati V, Rizzu P, van Baren MJ, Schaap O, Breedveld GJ, Krieger E, et al. Mutations in the DJ-1 Gene Associated with Autosomal Recessive Early-Onset Parkinsonism. Science. 2003 [cited 27 Jan 2025]. doi:10.1126/science.1077209
+
 21.Williams ET, Chen X, Moore DJ. VPS35, the Retromer Complex and Parkinson’s Disease. Journal of Parkinson’s Disease. 2017;7: 219.
+
 22.Rab35 Regulates an Endocytic Recycling Pathway Essential for the Terminal Steps of Cytokinesis. Current Biology. 2006;16: 1719–1725.
+
 23.Chiu CC, Yeh TH, Lai SC, Weng YH, Huang YC, Cheng YC, et al. Increased Rab35 expression is a potential biomarker and implicated in the pathogenesis of Parkinson’s disease. Oncotarget. 2016;7. doi:10.18632/oncotarget.11090
+
 24.Bae E-J, Kim D-K, Kim C, Mante M, Adame A, Rockenstein E, et al. LRRK2 kinase regulates α-synuclein propagation via RAB35 phosphorylation. Nature Communications. 2018;9: 1–16.
+
 25.Wang H-L, Lu C-S, Yeh T-H, Shen Y-M, Weng Y-H, Huang Y-Z, et al. Combined Assessment of Serum Alpha-Synuclein and Rab35 is a Better Biomarker for Parkinson’s Disease. Journal of Clinical Neurology. 2019;15: 488–495.
+
 26.Website. doi:10.4061/2011/973231
+
 27.Rigden DJ, Jedrzejas MJ, de Mello LV. Identification and analysis of catalytic TIM barrel domains in seven further glycoside hydrolase families. FEBS Letters. 2003;544: 103–111.
+
 28.Role of LRRK2 in Alpha-Synuclein-Induced Neurodegeneration. In: The Michael J. Fox Foundation for Parkinson’s Research | Parkinson's Disease [Internet]. [cited 27 Jan 2025]. Available: https://www.michaeljfox.org/grant/role-lrrk2-alpha-synuclein-induced-neurodegeneration
+
 29.Lee H-J, Bae E-J, Lee S-J. Extracellular α-synuclein—a novel and crucial factor in Lewy body diseases. Nature Reviews Neurology. 2014;10: 92–98.
+
 30.Lee H, Elkamhawy A, Rakhalskaya P, Lu Q, Nada H, Quan G, et al. Small Molecules in Parkinson’s Disease Therapy: From Dopamine Pathways to New Emerging Targets. Pharmaceuticals (Basel). 2024;17: 1688–1688.
 
 
