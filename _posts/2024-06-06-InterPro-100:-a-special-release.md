@@ -44,8 +44,7 @@ Figure 2. Example of pathogenic variant data for [P99999](https://www.ebi.ac.uk/
 ### Updates to AI-generated tags
 As [previously mentioned](https://proteinswebteam.github.io/interpro-blog/2024/04/03/InterPro-99.0-updates/), InterPro contains AI-generated entries. The InterPro data curation team may review these entries in the future. When that occurs, the curators may verify, accept, or amend the AI-generated content. The AI status tag can be the following:
 - Unreviewed: the entry hasn’t been verified by a curator
-- Reviewed: the entry has been verified by a curator
-- Reviewed and updated: the entry has been verified and updated by a curator
+- Reviewed: the entry has been verified and potentially updated by a curator
 
 The AI status is highlighted on the entry page in the tooltip when hovering over the AI symbol next to the entry name and short name, and by the AI tag above the entry descriptions (Figure 3).
 
