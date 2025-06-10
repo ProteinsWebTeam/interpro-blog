@@ -111,37 +111,37 @@ Nevertheless, there are **other factors** influencing taste in this case as well
 Besides, TAS2R38 has been associated with the **molecular physiological mechanisms** implied in the biological process of ageing [34], and the perception of PTC/PROP has also been related to health conditions including colonic neoplasm risk [35] and even neurodegenerative diseases [36].
 
 # References
-[1] PMID: 21036327
+[1] [PMID: 21036327](https://europepmc.org/article/MED/21036327)
 [2] https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/taste-receptor
 [3] https://www.sciencedirect.com/topics/neuroscience/taste-receptor
-[4] PMID: 28655883
+[4] [PMID: 28655883](https://europepmc.org/article/MED/28655883)
 [5] https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_(Jakubowski_and_Flatt)/Unit_IV_-_Special_Topics/28:_Biosignaling_-_Capstone_Volume_I/28.18:_Signal_Transduction_-_Taste_(Gustation) - Figure 28.18.1
-[6] PMID: 31922012
-[7] PMID: 22110046
-[8] PMID: 17115053
-[9] PMID: 39468215
-[10] PMID: 27322240
-[11] PMID: 21315593
-[12] PMID: 14712238
+[6] [PMID: 31922012](https://europepmc.org/article/MED/31922012)
+[7] [PMID: 22110046](https://europepmc.org/article/MED/22110046)
+[8] [PMID: 17115053](https://europepmc.org/article/MED/17115053)
+[9] [PMID: 39468215](https://europepmc.org/article/MED/39468215)
+[10] [PMID: 27322240](https://europepmc.org/article/MED/27322240)
+[11] [PMID: 21315593](https://europepmc.org/article/MED/21315593)
+[12] [PMID: 14712238](https://europepmc.org/article/MED/14712238)
 [13] https://en.wikipedia.org/wiki/Pungency
-[14] PMID: 27367653
-[15] PMID: 24305160
-[16] PMID: 19074743
-[17] PMID: 11473305
+[14] [PMID: 27367653](https://europepmc.org/article/MED/27367653)
+[15] [PMID: 24305160](https://europepmc.org/article/MED/24305160)
+[16] [PMID: 19074743](https://europepmc.org/article/MED/19074743)
+[17] [PMID: 11473305](https://europepmc.org/article/MED/11473305)
 [18] https://en.wikipedia.org/wiki/Capsaicin
-[19] PMID: 18695236
-[20] PMID: 30001322
+[19] [PMID: 18695236](https://europepmc.org/article/MED/18695236)
+[20] [PMID: 30001322](https://europepmc.org/article/MED/30001322)
 [21] https://www.sciencedirect.com/science/article/pii/S1389041720300772
-[22]  PMID: 40314109
+[22] [PMID: 40314109](https://europepmc.org/article/MED/40314109)
 [23] https://bigthink.com/life/why-people-like-spicy-foods/
-[24] PMID: 23538555
-[25] PMID: 37686747
-[26] PMID: 35164163
+[24] [PMID: 23538555](https://europepmc.org/article/MED/23538555)
+[25] [PMID: 37686747](https://europepmc.org/article/MED/37686747)
+[26] [PMID: 35164163](https://europepmc.org/article/MED/35164163)
 [27] https://flavourjournal.biomedcentral.com/articles/10.1186/2044-7248-1-22
 [28] https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cilantro
-[29] PMID: 22977065
-[30] PMID: :38600377
-[31] PMID:38776963
+[29] [PMID: 22977065](https://europepmc.org/article/MED/22977065)
+[30] [PMID: 38600377](https://europepmc.org/article/MED/38600377)
+[31] [PMID: 38776963](https://europepmc.org/article/MED/38776963)
 [32] https://utoronto.scholaris.ca/server/api/core/bitstreams/8e66bc69-7dd0-493b-8268-49d4f658de2b/content
 [33] https://www.sciencedirect.com/science/article/pii/S0950329313001572
 [34] https://www.nature.com/articles/s41598-019-54604-1
