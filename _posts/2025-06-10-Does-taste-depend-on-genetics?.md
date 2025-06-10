@@ -16,7 +16,7 @@ There are five basic tastes that human taste receptors can detect, each sensed b
 
 When a molecule responsible for taste binds to its specific receptor, it triggers a cascade of cellular events [4]. See Figure 1 for a schematic graph of this process.
 
-![general_scheme]({{site.baseurl}}/assets/media/images/posts/general_scheme.jpg)
+![taste_general_scheme]({{site.baseurl}}/assets/media/images/posts/taste_general_scheme.jpg)
 *Figure 1. Schematic diagram showing taste signal transmission between the tongue (with taste buds that contain taste cells harbouring GPCRs) and brain. Taste GPCRs are activated by specific food compounds, recruit specific G proteins that further induce intracellular calcium release. Adapted from [5].*
 
 # An example, bitter taste
@@ -26,20 +26,20 @@ Herbivores, including humans, have evolved strategies to circumvent these defenc
 
 This ability is mediated by a **family of GPCRs known as TAS2Rs** (see Figure 2) [6]. In the InterPro page for this family, the list of TAS2R protein sequences available in UniprotKB can be easily displayed (see Figure 3).
 
-![TAR2S]({{site.baseurl}}/assets/media/images/posts/TAR2S.jpg)
+![taste_TAR2S]({{site.baseurl}}/assets/media/images/posts/taste_TAR2S.jpg)
 *Figure 2. InterPro page for the ([Taste receptor type 2 (TAS2R) protein family (IPR007960)](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR007960/)).*
 
-![humanTAR2s]({{site.baseurl}}/assets/media/images/posts/humanTAR2s.jpg)
+![taste_humanTAR2s]({{site.baseurl}}/assets/media/images/posts/taste_humanTAR2s.jpg)
 *Figure 3. InterPro page with a ([list of the human sequences in UniProtKB that belong to this protein family](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR007960/protein/UniProt/?search=homo%20sapiens#table)).*
 
 These proteins are related to other GPCRs involved in environmental sensing, including olfactory receptors (ORs) and opsins (RHO and OPNs), which operate through similar molecular mechanisms [7].
 
 When stimulated by bitter compounds, TAS2Rs activate a transduction cascade involving Phospholipase C Beta 2 (PLCB2, see Figure 4), Calcium homeostasis modulator protein 1 (CALHM1, see Figure 5), and other signalling molecules, ultimately leading to the release of neurotransmitters and the perception of bitterness [6].
 
-![PLCB2]({{site.baseurl}}/assets/media/images/posts/PLCB2.jpg)
+![taste_PLCB2]({{site.baseurl}}/assets/media/images/posts/taste_PLCB2.jpg)
 *Figure 4. Split full-screen view of the ([crystal structure of human Phospholipase C Beta 2 (PLCB2)](https://www.ebi.ac.uk/interpro/structure/PDB/2zkm/)) with the contributing signature (([CD16209](https://www.ebi.ac.uk/interpro/entry/cdd/CD16209/))) for the catalytic domain InterPro entry (([IPR028403](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR028403/))) highlighted in light green. This domain, which shows a TIM barrel fold, contains two regions of homology, sometimes referred to as 'X-box' (([IPR000909](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR000909/))) and 'Y-box' (([IPR001711](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR001711/)), with a variable large loop in between that is commonly referred to as the X-Y linker and is fundamental for the activation of the enzyme [8].*
 
-![CALHM1]({{site.baseurl}}/assets/media/images/posts/CALHM1.jpg)
+![taste_CALHM1]({{site.baseurl}}/assets/media/images/posts/taste_CALHM1.jpg)
 *Figure 5. Split full-screen view of the ([Cryo-EM structure of octameric human CALHM1](https://www.ebi.ac.uk/interpro/structure/PDB/8gmr/)) with the contributing signature (([PTHR32261](https://www.ebi.ac.uk/interpro/entry/panther/PTHR32261/))) for family type InterPro entry (([IPR029569](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR029569/))) highlighted in brown. The coverage of the signature corresponds to one of the monomers or copies that form the homooctamer.*
 
 TAS2Rs are **also expressed in the gut and airways**, where they may play roles in endocrine responses, gastric emptying, immune reactions, and even detection of microbial activity. They are considered potential targets to prevent or treat metabolic disorders [9].
@@ -51,10 +51,10 @@ In addition, there is extensive **allelic variation** in TAS2R genes among indiv
 # But what about spiciness or pungency? Isn’t it a taste?
 **Capsaicin**, found in chilli peppers; **piperine**, found in black pepper; and **allyl isothiocyanate (AITC)**, found in cruciferous vegetables such as mustard, radish, horseradish, and wasabi, are compounds responsible for spicy sensations [10]. These molecules activate **pain and temperature receptors** (all of them activate the TRPV1 channel, but AITC also activates TRPA1) in the mouth [11, 12]. TRPV1 (transient receptor potential vanilloid 1, Figure 6) and TRPA1 (Transient receptor potential cation channel subfamily A member 1, Figure 7) are **not taste receptors**; they are involved in the detection of thermo-sensation (heat), autonomic thermoregulation, nociception (pain), food intake regulation and multiple functions in the gastrointestinal tract [13, 14]. This activation sends signals to the brain that are interpreted as **sensory experience of pain or heat**, rather than a taste.
 
-![TRPV1]({{site.baseurl}}/assets/media/images/posts/TRPV1.jpg)
+![taste_TRPV1]({{site.baseurl}}/assets/media/images/posts/taste_TRPV1.jpg)
 *Figure 6. Split full-screen view of the ([Structure of the rat capsaicin receptor (TRPV1)](https://www.ebi.ac.uk/interpro/structure/PDB/3j9j/)) with the contributing signature (([PF00520](https://www.ebi.ac.uk/interpro/entry/pfam/PF00520/))) for the Ion transport domain InterPro entry (([IPR005821](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR005821/))) highlighted in blue. Four copies of the protein form a channel complex [15]. The structure of the human capsaicin receptor has not been solved yet.*
 
-![TRPA1]({{site.baseurl}}/assets/media/images/posts/TRPA1.jpg)
+![taste_TRPA1]({{site.baseurl}}/assets/media/images/posts/taste_TRPA1.jpg)
 *Figure 7. Split full-screen view of the ([Structure of the human TRPA1 ion channel](https://www.ebi.ac.uk/interpro/structure/PDB/3j9p/)) with the contributing signature (([PF00520](https://www.ebi.ac.uk/interpro/entry/pfam/PF00520/))) for the Ion transport domain InterPro entry ([IPR005821](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR005821/))) highlighted in blue. Four copies of the protein form a channel complex. TRPA1, also known as the Mustard and Wasabi Receptor, can be activated by a variety of structurally diverse pungent natural products, environmental toxic irritants, industrial chemicals and pharmaceuticals, as well as endogenous reactive mediators [16].*
 
 For this reason, responses triggered by pungent molecules are important for the **study of pain modulation** but also in **other** pathological conditions such as obesity, airway diseases, and urological disorders [13,14].
@@ -68,7 +68,7 @@ As an example, capsaicin repels almost all mammals, with rare exceptions like th
 
 In response to the sensation of pain triggered by the ingestion of capsaicin, your brain releases endorphins ​​(natural painkillers) and dopamine (a reward neurotransmitter), which ultimately can lead to shifting your experience from negative (pain) to positive (pleasure) [21, 22]. A recent study employed an adaptive causal network model to outline the processes related to capsaicin consumption (see Figure 8).
 
-![similation]({{site.baseurl}}/assets/media/images/posts/similation.jpg)
+![taste_similation]({{site.baseurl}}/assets/media/images/posts/taste_similation.jpg)
 *Figure 8. Upper graph: **Simulation** of pain and pleasure perception, induced by capsaicin. Over time the perception of pleasure becomes dominant over the pain perception. Lower graph: **Simulation** of TRPV1 activity, pain perception, and threshold for pain. The perception of pain decreases over time as a result of an increasing threshold for pain and hence less activity of the TRPV1 receptor [21].*
 
 + **‘Benign masochism’, sensation seeking and reward sensitivity**
@@ -86,7 +86,7 @@ Additionally, there are health benefits to pungent compounds such as capsaicin t
 # And coriander? Why do people seem to either love it or hate it?
 There is a genetic component to cilantro taste perception. A mutation located within a cluster of olfactory receptor genes was found to be significantly associated with soapy-taste detection. Among them is **OR6A2 (Olfactory receptor 6A2)**, an olfactory receptor (see Figure 9) with a high binding specificity for several of the aldehydes that give cilantro its characteristic odour. However, the authors of this study observed low heritability [27].
 
-![OR6A2]({{site.baseurl}}/assets/media/images/posts/OR6A2.jpg)
+![taste_OR6A2]({{site.baseurl}}/assets/media/images/posts/taste_OR6A2.jpg)
 *Figure 9. Split full-screen view of the ([AlphaFold-predicted structure of the human OR6A2 receptor](https://www.ebi.ac.uk/interpro/protein/UniProt/O95222/alphafold/)). The structure of this protein hasn’t been experimentally solved yet.*
 
 At least **five other different receptor variations** have been associated with the differences in the perception of coriander [28, 29]:
@@ -103,7 +103,7 @@ However, **genetics is not the only factor**. Cultural exposure and personal foo
 # Is there any example of variations in a single protein influencing taste?
 The **TAS2R38** bitter taste receptor (Taste receptor type 2 member 38, see Figure 10) is responsible for the ability to detect the compounds phenylthiocarbamide (**PTC**) and propylthiouracil (**PROP**). Cruciferous vegetables such as broccoli, turnip, collard greens and rutabaga have glucosinolates, compounds that are structurally similar to PTC. It has been suggested that individuals who perceive glucosinolates as strongly bitter may find cruciferous vegetables to be very bitter [32].
 
-![TAS2R38]({{site.baseurl}}/assets/media/images/posts/TAS2R38.jpg)
+![taste_TAS2R38]({{site.baseurl}}/assets/media/images/posts/taste_TAS2R38.jpg)
 *Figure 10. Split full-screen view of the ([AlphaFold-predicted structure of the human TAS2R38 receptor](https://www.ebi.ac.uk/interpro/protein/UniProt/O95222/alphafold/)). The structure of this protein hasn’t been experimentally solved yet.*
 
 Nevertheless, there are **other factors** influencing taste in this case as well [33].
