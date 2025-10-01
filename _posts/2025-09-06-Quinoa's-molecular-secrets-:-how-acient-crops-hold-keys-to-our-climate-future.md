@@ -1,3 +1,10 @@
+---
+published: true
+layout: post
+category: focus
+image_category: biology
+author: Nicole Morveli Flores
+---
 Have you ever experienced the dizzy, breathless feeling of high-altitude sickness? When you're not accustomed to it, high-altitude environments can feel overwhelmingly harsh. Acute Mountain Sickness (AMS) is the formal term for these symptoms, a common illness affecting those introduced to high altitudes without proper acclimatisation [[1]](https://www.rmmj.org.il/issues/3/Articles/44). Biologically, our bodies struggle to adapt to reduced air pressure, making it difficult to absorb enough oxygen. Whilst adaptation occurs, we can rely on rest and other resources to ease the transition.
 In some ecosystems, however, this adaptation feels even more challenging. The Andes, one of the world's largest mountain ranges, host breathtakingly beautiful yet hostile environments despite their diversity. Scarce water and daily temperature swings from freezing nights to scorching days, these are the conditions that communities face daily. While humans can create controlled environments to overcome these challenges, what about other organisms?  
 
